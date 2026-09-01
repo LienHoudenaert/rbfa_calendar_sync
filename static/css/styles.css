@@ -1,0 +1,46 @@
+.navbar {
+  .btn {
+    background-color: transparent;
+    /* border-color:#4693fb; */
+    border-color: #ffffff;
+    color: #ffffff;
+    border-radius: 0.25rem;
+  }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #212529;
+}
+
+#select_club {
+  cursor: pointer;
+
+  .card {
+    img {
+      padding: 15px;
+      height: 90px;
+      aspect-ratio: 1 / 1;
+      object-fit: contain;
+    }
+
+    .col-auto {
+      margin-top: auto;
+      margin-bottom: auto;
+    }
+
+    &:hover {
+      background-color: #f7f7f7;
+    }
+  }
+}
+
+#select_team {
+  cursor: pointer;
+
+  .card {
+    &:hover {
+      background-color: #f7f7f7;
+    }
+  }
+}
+

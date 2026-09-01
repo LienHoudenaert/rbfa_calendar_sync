@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="{{ get_locale() }}">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ _('RBFA Calendar Generator') }}</title>
+    <!-- Shared CSS files or meta tags -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}" />
+  </head>
+  <body>
+    <!-- Navbar or any common header -->
+    <nav class="navbar navbar-dark bg-dark">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="/">
+          <img src="/static/img/logo_transparent.png" alt="" width="30" height="30" class="d-inline-block align-text-top me-2" />
+          {{ _('RBFA Calendar Generator') }}
+        </a>
+        <form class="d-flex">
+         <div class="input-group">
+          <input type="text" id="club_name" name="club_name" class="form-control" placeholder="Search..." />
+          <button class="btn" type="submit">Search</button>
+          </div>
+        </form>
+        <div class="dropdown">
+          <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+            Dropdown button
+          </button>
+          <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+            <li>
+                <a href="{{ url_for('change_language', lang_code='en') }}">EN</a>
+            </li>
+            <li>
+                <a href="{{ url_for('change_language', lang_code='nl') }}">NL</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Main content, to be filled by child templates -->
+    <div class="container mt-5">
+      {% block content %}
+      <!-- Default content (can be replaced by child templates) -->
+      {% endblock %}
+    </div>
+
+    <!-- Shared JS files -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+      crossorigin="anonymous"></script>
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+    {% block script %}
+    <!-- Additional content that can be overridden -->
+    {% endblock %}
+  </body>
+</html>

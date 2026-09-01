@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Saved calendars</title>
+</head>
+
+<body>
+
+<h1>Saved calendars</h1>
+
+{% if teams %}
+
+    {% for team in teams %}
+
+        <div>
+            <h3>
+                {{ team.club }} - {{ team.name }}
+            </h3>
+
+            <p>
+                <a
+                    href="{{ url_for(
+                        'serve_ical',
+                        filename=team.id ~ '.ics'
+                    ) }}"
+                >
+                    Subscribe to calendar
+                </a>
+            </p>
+        </div>
+
+    {% endfor %}
+
+{% else %}
+
+    <p>No calendars have been saved yet.</p>
+
+{% endif %}
+
+<p>
+    <a href="{{ url_for('index') }}">
+        Back to search
+    </a>
+</p>
+
+</body>
+
+</html>

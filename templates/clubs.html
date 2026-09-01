@@ -1,0 +1,25 @@
+{% extends "base.html" %} {% block content %} {% if club_results %}
+<h3 class="text-uppercase">{{ _('Clubs found for "%(search)s":', search=search) }}</h3>
+<p class="mb-4">{{ _('If your club is not in this list, try again with a more specific search.')}}</p>
+<div class="row">
+{% for club in club_results %}
+<form id="select_club" action="/get_teams" method="POST" class="col-12 col-md-6 col-lg-4">
+  <input type="hidden" name="club_id" value="{{ club.id }}" />
+  <input type="hidden" name="club_name" value="{{ club.clubName }}" />
+  <div class="card mb-3" onclick="this.closest('form').submit();">
+    <div class="row no-gutters">
+      <div class="col-auto">
+        <img src="{{ club.logo }}" class="card-img club_image" alt="{{ club.clubName }}" />
+      </div>
+      <div class="col-auto">
+        <div class="card-body">
+          <h6 class="card-title">{{ club.clubName }}</h6>
+        </div>
+      </div>
+    </div>
+  </div>
+</form>
+{% endfor %}
+</div> {% else %}
+<h5>{{ _('No clubs found for {{ search }}, please try again!')}}</h5>
+{% endif %} {% endblock %}

@@ -1,0 +1,15 @@
+services:
+
+  rbfa-calendar:
+    build: .
+    container_name: rbfa-calendar
+    restart: unless-stopped
+
+    ports:
+      - "8080:8080"
+
+    volumes:
+      - ./data:/app/data
+
+    environment:
+      TZ: Europe/Brussels

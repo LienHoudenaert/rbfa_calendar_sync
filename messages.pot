@@ -1,0 +1,61 @@
+# Translations template for PROJECT.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-09-02 00:31+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: templates/base.html:6 templates/base.html:21
+msgid "RBFA Calendar Generator"
+msgstr ""
+
+#: templates/calendar.html:3
+msgid "Copy the link below to subscribe to the calendar:"
+msgstr ""
+
+#: templates/calendar.html:6
+msgid "Copy"
+msgstr ""
+
+#: templates/calendar.html:8
+msgid "Copied to clipboard!"
+msgstr ""
+
+#: templates/clubs.html:2
+#, python-format
+msgid "Clubs found for \"%(search)s\":"
+msgstr ""
+
+#: templates/clubs.html:3
+msgid "If your club is not in this list, try again with a more specific search."
+msgstr ""
+
+#: templates/clubs.html:24
+msgid "No clubs found for {{ search }}, please try again!"
+msgstr ""
+
+#: templates/index.html:3
+msgid "SEARCH A CLUB"
+msgstr ""
+
+#: templates/index.html:8
+msgid "Search"
+msgstr ""
+
+#: templates/teams.html:2
+#, python-format
+msgid "%(count)s teams found for %(club)s:"
+msgstr ""
+
