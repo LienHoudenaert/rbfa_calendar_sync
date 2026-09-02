@@ -1,52 +1,51 @@
-<!DOCTYPE html>
-<html lang="en">
+{% extends "base.html" %} {% block content %}
+<div class="responsive_width">
+    <h1>Saved calendars</h1>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% if teams %}
+    <table class="table table-sm mt-4">
+        <thead class="table-light">
+            <tr>
+                <th>Club</th>
+                <th>Team</th>
+                <th class="text-end">Calendar</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for team in teams %}
+            <tr>
+                <td style="vertical-align: middle">
+                    <span>{{ team.club }}</span>
+                </td>
+                <td style="vertical-align: middle">
+                    <span>{{ team.name }}</span>
+                </td>
+                <td style="vertical-align: middle" class="text-end">
+                    <span id="calendar-link-{{ team.id }}">
+                        {{ url_for( 'calendars.serve_ical', filename=team.id ~
+                        '.ics', _external=True ) }}
+                    </span>
+                    <button
+                        type="button"
+                        class="ms-3 btn btn-sm btn-primary"
+                        onclick="copyToClipboard('calendar-link-{{ team.id }}', this)"
+                        title="{{ _('Copy calendar link') }}"
+                    >
+                        <i class="bi bi-clipboard"></i>
+                    </button>
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
 
-    <title>Saved calendars</title>
-</head>
-
-<body>
-
-<h1>Saved calendars</h1>
-
-{% if teams %}
-
-    {% for team in teams %}
-
-        <div>
-            <h3>
-                {{ team.club }} - {{ team.name }}
-            </h3>
-
-            <p>
-                <a
-                    href="{{ url_for(
-                        'serve_ical',
-                        filename=team.id ~ '.ics'
-                    ) }}"
-                >
-                    Subscribe to calendar
-                </a>
-            </p>
-        </div>
-
-    {% endfor %}
-
-{% else %}
-
+    {% else %}
     <p>No calendars have been saved yet.</p>
+    {% endif %}
 
-{% endif %}
-
-<p>
-    <a href="{{ url_for('index') }}">
+    <a class="btn btn-secondary" href="{{ url_for('main.index') }}">
         Back to search
     </a>
-</p>
+</div>
 
-</body>
-
-</html>
+{% endblock %}
