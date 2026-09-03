@@ -63,6 +63,20 @@ msgstr "Kalenderlink"
 msgid "Copy calendar link"
 msgstr "Kalenderlink kopiëren"
 
+#: templates/calendar.html:52
+msgid "How does this work?"
+msgstr "Hoe werkt dit?"
+
+#: templates/calendar.html:54
+msgid ""
+"Copy the calendar URL and add it as a subscription in\n"
+"                    Google Calendar, Apple Calendar, Outlook or another\n"
+"                    compatible calendar application."
+msgstr ""
+"Kopieer de kalender-URL en voeg deze toe als abonnement in\n"
+"                    Google Calendar, Apple Calendar, Outlook of een andere\n"
+"                    compatibele kalenderapplicatie."
+
 #: templates/calendars.html:97
 msgid "No calendars saved yet"
 msgstr "Nog geen kalenders opgeslagen"
@@ -75,9 +89,25 @@ msgstr "Maak je eerste kalender aan door te zoeken naar jouw voetbalclub."
 msgid "Search for a club"
 msgstr "Zoek een club"
 
-#: templates/clubs.html:11 templates/teams.html:12
+#: templates/calendar.html:9 templates/clubs.html:11 templates/teams.html:12
 msgid "Back to search"
 msgstr "Terug naar zoeken"
+
+#: templates/calendar.html:13
+msgid "Calendar ready"
+msgstr "Kalender is klaar"
+
+#: templates/calendar.html:18
+msgid "Use your calendar"
+msgstr "Gebruik je kalender"
+
+#: templates/calendar.html:22
+msgid ""
+"Use the link below to subscribe to your team's\n"
+"                    calendar."
+msgstr ""
+"Gebruik de onderstaande link om je te abonneren op de\n"
+"                    kalender van je team."
 
 #: templates/clubs.html:16
 #, python-format
@@ -211,9 +241,10 @@ msgstr "Mis nooit meer een match"
 msgid "Keep your games in your own calendar."
 msgstr "Bewaar je wedstrijden in je eigen kalender."
 
+
 #: templates/teams.html:17
 msgid "Team selection"
-msgstr ""
+msgstr "Team selectie"
 
 #: templates/teams.html:21
 msgid "Select your team"

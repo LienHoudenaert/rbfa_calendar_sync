@@ -17,6 +17,12 @@
       "name": "Eerste Elftal (Vrouwen)",
       "club": "K. BLAUWVOET OEVEL",
       "logo": "https://belgianfootball.s3.eu-central-1.amazonaws.com/s3fs-public/rbfa/img/logos/clubs/02223.jpg"
+    },
+    {
+      "id": "365678",
+      "name": "Eerste Elftal",
+      "club": "K. BLAUWVOET OEVEL",
+      "logo": "https://belgianfootball.s3.eu-central-1.amazonaws.com/s3fs-public/rbfa/img/logos/clubs/02223.jpg"
     }
   ]
 }

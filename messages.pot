@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-09-03 22:17+0200\n"
+"POT-Creation-Date: 2026-09-03 22:36+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -32,6 +32,39 @@ msgstr ""
 
 #: templates/base.html:122
 msgid "Home"
+msgstr ""
+
+#: templates/calendar.html:9 templates/clubs.html:11 templates/teams.html:12
+msgid "Back to search"
+msgstr ""
+
+#: templates/calendar.html:13
+msgid "Calendar ready"
+msgstr ""
+
+#: templates/calendar.html:18
+msgid "Use your calendar"
+msgstr ""
+
+#: templates/calendar.html:22
+msgid ""
+"Use the link below to subscribe to your team's\n"
+"                    calendar."
+msgstr ""
+
+#: templates/calendar.html:41 templates/calendars.html:76
+msgid "Copy calendar link"
+msgstr ""
+
+#: templates/calendar.html:52
+msgid "How does this work?"
+msgstr ""
+
+#: templates/calendar.html:54
+msgid ""
+"Copy the calendar URL and add it as a subscription in\n"
+"                    Google Calendar, Apple Calendar, Outlook or another\n"
+"                    compatible calendar application."
 msgstr ""
 
 #: templates/calendars.html:9
@@ -58,10 +91,6 @@ msgstr ""
 msgid "Calendar link"
 msgstr ""
 
-#: templates/calendars.html:76
-msgid "Copy calendar link"
-msgstr ""
-
 #: templates/calendars.html:97
 msgid "No calendars saved yet"
 msgstr ""
@@ -72,10 +101,6 @@ msgstr ""
 
 #: templates/calendars.html:105
 msgid "Search for a club"
-msgstr ""
-
-#: templates/clubs.html:11 templates/teams.html:12
-msgid "Back to search"
 msgstr ""
 
 #: templates/clubs.html:16

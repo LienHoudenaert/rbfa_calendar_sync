@@ -15,6 +15,7 @@ from services.storage import (
 )
 
 from services.calendar import refresh_team_calendar
+from services.git_backup import backup_new_calendar
 
 
 calendars_bp = Blueprint('calendars', __name__)
@@ -50,6 +51,9 @@ def get_team_calendar():
         )
 
         ical_url = refresh_team_calendar(team_id)
+
+        # Backup newly created calendar to GitHub
+        backup_new_calendar(f"{team_id}.ics")
 
     return render_template(
         'calendar.html',
