@@ -1,0 +1,367 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//LienHoudenaert//RBFACalendarSync//NL
+TIMEZONE-ID:Europe/Brussels
+TZID:Europe/Brussels
+X-WR-TIMEZONE:Europe/Brussels
+BEGIN:VEVENT
+SUMMARY:SC.AARSCHOT - RWL.SPORT
+DTSTART;TZID=Europe/Brussels:20260721T193000
+DTEND;TZID=Europe/Brussels:20260721T211500
+DTSTAMP:20260903T204708Z
+UID:7488793@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: friendly\nEindstand: 0 - 3
+LOCATION:Gijmelsesteenweg 276\, 3201 Langdorp
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KVC.LANGDORP - RWL.SPORT
+DTSTART;TZID=Europe/Brussels:20260725T193000
+DTEND;TZID=Europe/Brussels:20260725T211500
+DTSTAMP:20260903T204708Z
+UID:7488794@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: friendly\nEindstand: 0 - 2
+LOCATION:Gijmelsesteenweg 276\, 3201 Langdorp
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RWL SPORT A - K. ST. ELEN A
+DTSTART;TZID=Europe/Brussels:20260726T160000
+DTEND;TZID=Europe/Brussels:20260726T174500
+DTSTAMP:20260903T204708Z
+UID:7505487@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType: cup\nEindstand: 2 - 3
+LOCATION:Volkensvoortstraat 58\, 3201 Langdorp
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RWL.Sport A - KFC.Werchter A
+DTSTART;TZID=Europe/Brussels:20260802T153000
+DTEND;TZID=Europe/Brussels:20260802T171500
+DTSTAMP:20260903T204708Z
+UID:7571505@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: cup_as_championship\nEindstand: 2 - 0
+LOCATION:Volkensvoortstraat 58\, 3201 Langdorp
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RWL.SPORT - KAC.BETEKOM
+DTSTART;TZID=Europe/Brussels:20260805T200000
+DTEND;TZID=Europe/Brussels:20260805T214500
+DTSTAMP:20260903T204708Z
+UID:7629393@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: friendly\nEindstand: 2 - 2
+LOCATION:Langestraat\, 3202 Rillaar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:T.Bunsbeek - RWL.Sport A
+DTSTART;TZID=Europe/Brussels:20260809T160000
+DTEND;TZID=Europe/Brussels:20260809T174500
+DTSTAMP:20260903T204708Z
+UID:7571525@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: cup_as_championship\nEindstand: 1 - 2
+LOCATION:Vlaasstraat 3\, 3380 Glabbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KVV HEUSDEN-ZOLDER - RWL.SPORT
+DTSTART;TZID=Europe/Brussels:20260812T200000
+DTEND;TZID=Europe/Brussels:20260812T214500
+DTSTAMP:20260903T204708Z
+UID:7628424@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: friendly\nEindstand: 
+LOCATION:De Nieuwe Dijk 35\, 3550 Heusden-Zolder
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KVC.LANGDORP - RWL.SPORT
+DTSTART;TZID=Europe/Brussels:20260813T193000
+DTEND;TZID=Europe/Brussels:20260813T211500
+DTSTAMP:20260903T204708Z
+UID:7628794@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: friendly\nEindstand: 
+LOCATION:Gijmelsesteenweg 276\, 3201 Langdorp
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RWL.Sport A - SK.Plenke Werchter
+DTSTART;TZID=Europe/Brussels:20260816T183000
+DTEND;TZID=Europe/Brussels:20260816T201500
+DTSTAMP:20260903T204708Z
+UID:7571545@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: cup_as_championship\nEindstand: 3 - 3
+LOCATION:Langestraat\, 3202 Rillaar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KFC.Rap.Wezemaal - RWL.Sport A
+DTSTART;TZID=Europe/Brussels:20260823T160000
+DTEND;TZID=Europe/Brussels:20260823T174500
+DTSTAMP:20260903T204708Z
+UID:7571568@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: cup_as_championship\nEindstand: 2 - 0
+LOCATION:Vleugtweg z/n\, 3111 Wezemaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VS.Kortenaken - RWL.Sport A
+DTSTART;TZID=Europe/Brussels:20260830T150000
+DTEND;TZID=Europe/Brussels:20260830T164500
+DTSTAMP:20260903T204708Z
+UID:7516600@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 0 - 0
+LOCATION:Nieuwstraat 31\, 3471 Hoeleden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RWL.Sport A - RD.Zoutleeuw A
+DTSTART;TZID=Europe/Brussels:20260906T150000
+DTEND;TZID=Europe/Brussels:20260906T164500
+DTSTAMP:20260903T204708Z
+UID:7516608@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Langestraat\, 3202 Rillaar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SNA.Keiberg - RWL.Sport A
+DTSTART;TZID=Europe/Brussels:20260912T193000
+DTEND;TZID=Europe/Brussels:20260912T211500
+DTSTAMP:20260903T204708Z
+UID:7516612@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Weg Messelbroek 181\, 3271 Zichem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RWL.Sport A - KVC.Kessel-Lo 2000 B
+DTSTART;TZID=Europe/Brussels:20260920T150000
+DTEND;TZID=Europe/Brussels:20260920T164500
+DTSTAMP:20260903T204708Z
+UID:7516624@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Langestraat\, 3202 Rillaar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RWL.Sport A - Cr.Vissenaken
+DTSTART;TZID=Europe/Brussels:20260927T150000
+DTEND;TZID=Europe/Brussels:20260927T164500
+DTSTAMP:20260903T204708Z
+UID:7516632@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Langestraat\, 3202 Rillaar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boutersem United A - RWL.Sport A
+DTSTART;TZID=Europe/Brussels:20261003T193000
+DTEND;TZID=Europe/Brussels:20261003T211500
+DTSTAMP:20260903T204708Z
+UID:7516635@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Valkenberg (Oude Baan)\, 3370 Roosbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RWL.Sport A - SC.Aarschot A
+DTSTART;TZID=Europe/Brussels:20261011T150000
+DTEND;TZID=Europe/Brussels:20261011T164500
+DTSTAMP:20260903T204708Z
+UID:7516648@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Langestraat\, 3202 Rillaar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VC.Bekkevoort - RWL.Sport A
+DTSTART;TZID=Europe/Brussels:20261018T150000
+DTEND;TZID=Europe/Brussels:20261018T164500
+DTSTAMP:20260903T204708Z
+UID:7516656@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType: championship\nEindstand: 
+LOCATION:Oude Tiensebaan 20A\, 3460 Bekkevoort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RWL.Sport A - FC Averbode Testelt Okselaar B
+DTSTART;TZID=Europe/Brussels:20261025T143000
+DTEND;TZID=Europe/Brussels:20261025T161500
+DTSTAMP:20260903T204708Z
+UID:7516663@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Langestraat\, 3202 Rillaar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:K.St.Haasrode B - RWL.Sport A
+DTSTART;TZID=Europe/Brussels:20261031T180000
+DTEND;TZID=Europe/Brussels:20261031T194500
+DTSTAMP:20260903T204708Z
+UID:7516666@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType: championship\nEindstand: 
+LOCATION:Kartuizerstraat 2\, 3052 Blanden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RWL.Sport A - Meensel-Kiezegem
+DTSTART;TZID=Europe/Brussels:20261108T143000
+DTEND;TZID=Europe/Brussels:20261108T161500
+DTSTAMP:20260903T204708Z
+UID:7516679@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Langestraat\, 3202 Rillaar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Korbeek Sp. - RWL.Sport A
+DTSTART;TZID=Europe/Brussels:20261114T190000
+DTEND;TZID=Europe/Brussels:20261114T204500
+DTSTAMP:20260903T204708Z
+UID:7516684@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Bierbeekstraat\, 3360 Korbeek-Lo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RWL.Sport A - SMS.Lubbeek A
+DTSTART;TZID=Europe/Brussels:20261122T143000
+DTEND;TZID=Europe/Brussels:20261122T161500
+DTSTAMP:20260903T204708Z
+UID:7516696@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Langestraat\, 3202 Rillaar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RC.Meldert - RWL.Sport A
+DTSTART;TZID=Europe/Brussels:20261128T193000
+DTEND;TZID=Europe/Brussels:20261128T211500
+DTSTAMP:20260903T204708Z
+UID:7516700@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Meerstraat\, 3320 Meldert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RWL.Sport A - SC.Out-Hoegaarden B
+DTSTART;TZID=Europe/Brussels:20261206T143000
+DTEND;TZID=Europe/Brussels:20261206T161500
+DTSTAMP:20260903T204708Z
+UID:7516712@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Langestraat\, 3202 Rillaar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cr.Vissenaken - RWL.Sport A
+DTSTART;TZID=Europe/Brussels:20261212T193000
+DTEND;TZID=Europe/Brussels:20261212T211500
+DTSTAMP:20260903T204708Z
+UID:7516714@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType: championship\nEindstand: 
+LOCATION:Sint Pietersstraat\, 3300 Vissenaken
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RD.Zoutleeuw A - RWL.Sport A
+DTSTART;TZID=Europe/Brussels:20270109T200000
+DTEND;TZID=Europe/Brussels:20270109T214500
+DTSTAMP:20260903T204708Z
+UID:7516727@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Stationsstraat 46\, 3440 Zoutleeuw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RWL.Sport A - SNA.Keiberg
+DTSTART;TZID=Europe/Brussels:20270117T143000
+DTEND;TZID=Europe/Brussels:20270117T161500
+DTSTAMP:20260903T204708Z
+UID:7516735@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Langestraat\, 3202 Rillaar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SMS.Lubbeek A - RWL.Sport A
+DTSTART;TZID=Europe/Brussels:20270123T203000
+DTEND;TZID=Europe/Brussels:20270123T221500
+DTSTAMP:20260903T204708Z
+UID:7516742@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType: championship\nEindstand: 
+LOCATION:Gellenberg 18a\, 3210 Lubbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RWL.Sport A - VS.Kortenaken
+DTSTART;TZID=Europe/Brussels:20270131T143000
+DTEND;TZID=Europe/Brussels:20270131T161500
+DTSTAMP:20260903T204708Z
+UID:7516751@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Langestraat\, 3202 Rillaar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RWL.Sport A - Korbeek Sp.
+DTSTART;TZID=Europe/Brussels:20270214T150000
+DTEND;TZID=Europe/Brussels:20270214T164500
+DTSTAMP:20260903T204708Z
+UID:7516759@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Langestraat\, 3202 Rillaar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Averbode Testelt Okselaar B - RWL.Sport A
+DTSTART;TZID=Europe/Brussels:20270221T150000
+DTEND;TZID=Europe/Brussels:20270221T164500
+DTSTAMP:20260903T204708Z
+UID:7516767@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Vorststraat Z/N\, 3271 Averbode
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RWL.Sport A - RC.Meldert
+DTSTART;TZID=Europe/Brussels:20270228T150000
+DTEND;TZID=Europe/Brussels:20270228T164500
+DTSTAMP:20260903T204708Z
+UID:7516775@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Langestraat\, 3202 Rillaar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SC.Aarschot A - RWL.Sport A
+DTSTART;TZID=Europe/Brussels:20270307T150000
+DTEND;TZID=Europe/Brussels:20270307T164500
+DTSTAMP:20260903T204708Z
+UID:7516782@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType: championship\nEindstand: 
+LOCATION:Grote Laakweg 29\, 3200 Aarschot
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RWL.Sport A - K.St.Haasrode B
+DTSTART;TZID=Europe/Brussels:20270314T150000
+DTEND;TZID=Europe/Brussels:20270314T164500
+DTSTAMP:20260903T204708Z
+UID:7516792@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Langestraat\, 3202 Rillaar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meensel-Kiezegem - RWL.Sport A
+DTSTART;TZID=Europe/Brussels:20270321T150000
+DTEND;TZID=Europe/Brussels:20270321T164500
+DTSTAMP:20260903T204708Z
+UID:7516801@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Tieltsestraat 16\, 3391 Meensel-Kiezegem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SC.Out-Hoegaarden B - RWL.Sport A
+DTSTART;TZID=Europe/Brussels:20270404T170000
+DTEND;TZID=Europe/Brussels:20270404T184500
+DTSTAMP:20260903T204708Z
+UID:7516809@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType: championship\nEindstand: 
+LOCATION:Tiensestraat 43\, 3320 Hoegaarden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RWL.Sport A - Boutersem United A
+DTSTART;TZID=Europe/Brussels:20270411T150000
+DTEND;TZID=Europe/Brussels:20270411T164500
+DTSTAMP:20260903T204708Z
+UID:7516816@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Langestraat\, 3202 Rillaar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KVC.Kessel-Lo 2000 B - RWL.Sport A
+DTSTART;TZID=Europe/Brussels:20270417T180000
+DTEND;TZID=Europe/Brussels:20270417T194500
+DTSTAMP:20260903T204708Z
+UID:7516819@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType: championship\nEindstand: 
+LOCATION:Stadionlaan 8\, 3010 Kessel-Lo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RWL.Sport A - VC.Bekkevoort
+DTSTART;TZID=Europe/Brussels:20270425T150000
+DTEND;TZID=Europe/Brussels:20270425T164500
+DTSTAMP:20260903T204708Z
+UID:7516829@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Langestraat\, 3202 Rillaar
+END:VEVENT
+END:VCALENDAR
