@@ -10,6 +10,7 @@ teams_bp = Blueprint('teams', __name__)
 def get_teams():
     club_id = request.form['club_id']
     club_name = request.form['club_name']
+    club_logo = request.form['club_logo']
 
     response = get_teams_from_api(club_id)
     results = response['data']['clubTeams']
@@ -17,5 +18,6 @@ def get_teams():
     return render_template(
         'teams.html',
         club_name=club_name,
+        club_logo=club_logo,
         team_results=results
     )

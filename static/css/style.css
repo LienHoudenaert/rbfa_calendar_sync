@@ -1,56 +1,720 @@
-@use "bootstrap/scss/bootstrap";
+:root {
+    --rbfa-black: #000000;
+    --rbfa-yellow: #cfa942;
+    --rbfa-red: #e65c51;
+    --rbfa-white: #ffffff;
+    --rbfa-grey: #9a9389;
+
+    --rbfa-light: #f7f6f3;
+    --rbfa-border: #e8e5df;
+    --rbfa-text-muted: #746f68;
+
+    --rbfa-radius: 14px;
+}
+
+
+/* --------------------------------------------------
+   Base
+-------------------------------------------------- */
+
+body {
+    background: var(--rbfa-light);
+    color: var(--rbfa-black);
+}
+
+a {
+    text-decoration: none;
+}
+
+
+/* --------------------------------------------------
+   Header
+-------------------------------------------------- */
+
+.app-header {
+    background: var(--rbfa-white);
+    border-bottom: 1px solid var(--rbfa-border);
+}
 
 .navbar {
-  .btn {
-    background-color: transparent;
-    border-color: #ffffff;
-    color: #ffffff;
-    border-radius: 0.25rem;
-  }
+    min-height: 76px;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  color: #212529;
+.navbar-brand {
+    color: var(--rbfa-black);
+    font-weight: 700;
+    font-size: 1rem;
 }
 
-#select_club {
-  cursor: pointer;
-
-  .card {
-    img {
-      padding: 15px;
-      height: 90px;
-      aspect-ratio: 1 / 1;
-      object-fit: contain;
-    }
-
-    .col-auto {
-      margin-top: auto;
-      margin-bottom: auto;
-    }
-
-    &:hover {
-      background-color: #f7f7f7;
-    }
-  }
+.navbar-brand:hover {
+    color: var(--rbfa-black);
 }
 
-#select_team {
-  cursor: pointer;
-
-  .card {
-    &:hover {
-      background-color: #f7f7f7;
-    }
-  }
+.brand-icon {
+    width: 38px;
+    height: 38px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--rbfa-yellow);
+    color: var(--rbfa-black);
+    border-radius: 10px;
+    font-size: 1.1rem;
 }
 
-.responsive_width {
-    width: 100%;
-    margin-left: auto;
-    margin-right: auto;
+.nav-calendar-link {
+    color: var(--rbfa-red);
+    font-weight: 700;
+    text-decoration: none;
+}
 
-    @media (min-width: 992px) {
-        width: 75%;
+.nav-calendar-link:hover {
+    color: var(--rbfa-red);
+}
+
+.btn-language {
+    color: var(--rbfa-black);
+    border: 1px solid var(--rbfa-border);
+    background: var(--rbfa-white);
+}
+
+.btn-language:hover {
+    border-color: var(--rbfa-grey);
+}
+
+
+/* --------------------------------------------------
+   Buttons
+-------------------------------------------------- */
+
+.btn-brand {
+    background: var(--rbfa-yellow);
+    border-color: var(--rbfa-yellow);
+    color: var(--rbfa-black);
+    font-weight: 600;
+}
+
+.btn-brand:hover,
+.btn-brand:focus {
+    background: var(--rbfa-black);
+    border-color: var(--rbfa-black);
+    color: var(--rbfa-white);
+}
+
+.btn-outline-brand {
+    color: var(--rbfa-black);
+    border-color: var(--rbfa-border);
+    background: var(--rbfa-white);
+}
+
+.btn-outline-brand:hover {
+    background: var(--rbfa-yellow);
+    border-color: var(--rbfa-yellow);
+    color: var(--rbfa-black);
+}
+
+
+/* --------------------------------------------------
+   Hero
+-------------------------------------------------- */
+
+.hero-section {
+    padding: 80px 0;
+    background: var(--rbfa-white);
+}
+
+.eyebrow {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    color: var(--rbfa-red);
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin-bottom: 18px;
+}
+
+.hero-title {
+    font-size: clamp(2.5rem, 5vw, 4.5rem);
+    font-weight: 800;
+    line-height: 1.05;
+    max-width: 700px;
+    margin-bottom: 24px;
+}
+
+.hero-text {
+    color: var(--rbfa-text-muted);
+    font-size: 1.1rem;
+    line-height: 1.7;
+    max-width: 620px;
+}
+
+
+/* --------------------------------------------------
+   Search card
+-------------------------------------------------- */
+
+.search-card {
+    margin-top: 40px;
+    background: var(--rbfa-white);
+    border: 1px solid var(--rbfa-border);
+    border-radius: var(--rbfa-radius);
+    padding: 28px;
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.05);
+}
+
+.search-card-header {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 20px;
+}
+
+.search-card-header h2 {
+    font-size: 1rem;
+    font-weight: 700;
+    margin: 0;
+}
+
+.search-card-header p {
+    color: var(--rbfa-text-muted);
+    font-size: 0.9rem;
+    margin: 2px 0 0;
+}
+
+.step-number {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--rbfa-black);
+    color: var(--rbfa-white);
+    font-weight: 700;
+}
+
+.search-input-group .input-group-text {
+    background: var(--rbfa-white);
+    border-right: 0;
+    border-color: var(--rbfa-border);
+    color: var(--rbfa-grey);
+}
+
+.search-input-group .form-control {
+    border-left: 0;
+    border-color: var(--rbfa-border);
+}
+
+.search-input-group .form-control:focus {
+    box-shadow: none;
+    border-color: var(--rbfa-border);
+}
+
+
+/* --------------------------------------------------
+   Hero visual
+-------------------------------------------------- */
+
+.hero-visual {
+    position: relative;
+    display: flex;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+
+    @media (max-width: 992px) {
+        max-width: 50%;
     }
+
+    @media (max-width: 768px) {
+        max-width: 75%;
+    }
+}
+
+
+/* --------------------------------------------------
+   Sections
+-------------------------------------------------- */
+
+.how-it-works,
+.page-section {
+    padding: 80px 0;
+}
+
+.how-it-works {
+    background: var(--rbfa-light);
+}
+
+.section-heading {
+    margin-bottom: 40px;
+}
+
+.section-heading h2 {
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.feature-card {
+    height: 100%;
+    padding: 30px;
+    background: var(--rbfa-white);
+    border: 1px solid var(--rbfa-border);
+    border-radius: var(--rbfa-radius);
+}
+
+.feature-icon {
+    width: 52px;
+    height: 52px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-radius: 12px;
+    background: var(--rbfa-yellow);
+    color: var(--rbfa-black);
+
+    font-size: 1.4rem;
+    margin-bottom: 22px;
+}
+
+.feature-icon-red {
+    background: var(--rbfa-red);
+    color: var(--rbfa-white);
+}
+
+.feature-icon-dark {
+    background: var(--rbfa-black);
+    color: var(--rbfa-white);
+}
+
+.feature-card h3 {
+    font-size: 1.15rem;
+    font-weight: 700;
+}
+
+.feature-card p {
+    color: var(--rbfa-text-muted);
+    margin-bottom: 0;
+}
+
+
+/* --------------------------------------------------
+   Benefits
+-------------------------------------------------- */
+
+.benefits-section {
+    padding: 0 0 80px;
+    background: var(--rbfa-light);
+}
+
+.benefits-card {
+    background: var(--rbfa-white);
+    border: 1px solid var(--rbfa-border);
+    border-radius: var(--rbfa-radius);
+    overflow: hidden;
+}
+
+.benefit-item {
+    display: flex;
+    gap: 16px;
+    padding: 28px;
+    border-right: 1px solid var(--rbfa-border);
+}
+
+.benefit-item:last-child {
+    border-right: 0;
+}
+
+.benefit-item > i {
+    color: var(--rbfa-red);
+    font-size: 1.5rem;
+}
+
+.benefit-item h4 {
+    font-size: 0.95rem;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.benefit-item p {
+    color: var(--rbfa-text-muted);
+    font-size: 0.85rem;
+    margin: 0;
+}
+
+
+/* --------------------------------------------------
+   Page headers
+-------------------------------------------------- */
+
+.page-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    gap: 30px;
+    margin-bottom: 45px;
+}
+
+.page-header-simple {
+    display: block;
+}
+
+.page-header h1 {
+    font-size: clamp(2rem, 4vw, 3.2rem);
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+
+.page-header p {
+    color: var(--rbfa-text-muted);
+    margin-bottom: 0;
+}
+
+.back-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    color: var(--rbfa-text-muted);
+    margin-bottom: 25px;
+}
+
+.back-link:hover {
+    color: var(--rbfa-black);
+}
+
+
+/* --------------------------------------------------
+   Content cards / tables
+-------------------------------------------------- */
+
+.content-card,
+.calendar-result-card {
+    background: var(--rbfa-white);
+    border: 1px solid var(--rbfa-border);
+    border-radius: var(--rbfa-radius);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.03);
+    overflow: hidden;
+}
+
+.app-table {
+    margin-bottom: 0;
+}
+
+.app-table thead th {
+    background: #f3f1ed;
+    color: var(--rbfa-grey);
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding: 16px 20px;
+    border: 0;
+}
+
+.app-table td {
+    padding: 18px 20px;
+    border-color: var(--rbfa-border);
+}
+
+.table-icon {
+    width: 34px;
+    height: 34px;
+
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
+    background: var(--rbfa-yellow);
+    border-radius: 8px;
+}
+
+.calendar-link-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 10px;
+}
+
+.calendar-url {
+    max-width: 360px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: var(--rbfa-text-muted);
+    font-size: 0.85rem;
+}
+
+
+/* --------------------------------------------------
+   Club cards
+-------------------------------------------------- */
+
+.club-card {
+    height: 100%;
+
+    display: flex;
+    align-items: center;
+    gap: 20px;
+
+    padding: 22px;
+
+    background: var(--rbfa-white);
+    border: 1px solid var(--rbfa-border);
+    border-radius: var(--rbfa-radius);
+
+    transition: 0.2s ease;
+}
+
+.club-card:hover {
+    border-color: var(--rbfa-yellow);
+    transform: translateY(-2px);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.06);
+}
+
+.club-logo-wrapper {
+    width: 70px;
+    height: 70px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    flex-shrink: 0;
+    background: var(--rbfa-light);
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+.club-image {
+    max-width: 58px;
+    max-height: 58px;
+    object-fit: contain;
+}
+
+.club-card-content {
+    flex-grow: 1;
+}
+
+.club-label {
+    display: block;
+    color: var(--rbfa-grey);
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    margin-bottom: 4px;
+}
+
+.club-card h3,
+.team-card h3 {
+    font-size: 1.1rem;
+    margin: 0;
+    color: var(--rbfa-black);
+}
+
+.club-card-arrow {
+    color: var(--rbfa-red);
+    font-size: 1.2rem;
+}
+
+
+/* --------------------------------------------------
+   Team cards
+-------------------------------------------------- */
+
+.team-card {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+
+    padding: 24px;
+
+    background: var(--rbfa-white);
+    border: 1px solid var(--rbfa-border);
+    border-radius: var(--rbfa-radius);
+
+    transition: 0.2s ease;
+}
+
+.team-card:hover {
+    border-color: var(--rbfa-yellow);
+    transform: translateY(-2px);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.06);
+}
+
+.team-card-icon {
+    width: 48px;
+    height: 48px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background: var(--rbfa-light);
+    border-radius: 10px;
+
+    font-size: 1.2rem;
+}
+
+.team-card-content {
+    flex-grow: 1;
+}
+
+.team-card-arrow {
+    color: var(--rbfa-red);
+    font-size: 1.2rem;
+    transition: transform 0.2s ease;
+}
+
+
+/* --------------------------------------------------
+   Calendar result
+-------------------------------------------------- */
+
+.calendar-result-card {
+    padding: 40px;
+    text-align: center;
+}
+
+.calendar-result-icon {
+    width: 70px;
+    height: 70px;
+
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
+    background: var(--rbfa-yellow);
+    border-radius: 50%;
+
+    font-size: 1.8rem;
+    margin-bottom: 25px;
+}
+
+.info-box {
+    display: flex;
+    gap: 15px;
+
+    padding: 22px;
+
+    background: #fff8e7;
+    border: 1px solid #f1dfaa;
+    border-radius: var(--rbfa-radius);
+}
+
+.info-box > i {
+    color: var(--rbfa-yellow);
+    font-size: 1.4rem;
+}
+
+.info-box p {
+    color: var(--rbfa-text-muted);
+}
+
+
+/* --------------------------------------------------
+   Empty states
+-------------------------------------------------- */
+
+.empty-state {
+    text-align: center;
+    padding: 70px 30px;
+
+    background: var(--rbfa-white);
+    border: 1px solid var(--rbfa-border);
+    border-radius: var(--rbfa-radius);
+}
+
+.empty-state-icon {
+    width: 70px;
+    height: 70px;
+
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
+    background: var(--rbfa-light);
+    border-radius: 50%;
+
+    font-size: 1.8rem;
+    color: var(--rbfa-red);
+
+    margin-bottom: 20px;
+}
+
+.empty-state h3 {
+    font-weight: 700;
+}
+
+.empty-state p {
+    color: var(--rbfa-text-muted);
+}
+
+
+/* --------------------------------------------------
+   Footer
+-------------------------------------------------- */
+
+.app-footer {
+    background: var(--rbfa-white);
+    border-top: 1px solid var(--rbfa-border);
+    padding: 25px 0;
+    font-size: 0.85rem;
+}
+
+.footer-brand {
+    font-weight: 700;
+}
+
+.footer-links {
+    display: flex;
+    gap: 20px;
+}
+
+.footer-links a {
+    color: var(--rbfa-text-muted);
+}
+
+.footer-links a:hover {
+    color: var(--rbfa-black);
+}
+
+
+/* --------------------------------------------------
+   Responsive
+-------------------------------------------------- */
+
+@media (max-width: 767.98px) {
+
+    .hero-section {
+        padding: 60px 0;
+    }
+
+    .hero-visual {
+        min-height: 300px;
+    }
+
+    .page-header {
+        align-items: flex-start;
+        flex-direction: column;
+    }
+
+    .benefit-item {
+        border-right: 0;
+        border-bottom: 1px solid var(--rbfa-border);
+    }
+
+    .benefit-item:last-child {
+        border-bottom: 0;
+    }
+
+    .calendar-link-wrapper {
+        justify-content: flex-start;
+    }
+
+    .calendar-url {
+        max-width: 200px;
+    }
+
 }

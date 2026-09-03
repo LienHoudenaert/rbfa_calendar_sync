@@ -28,7 +28,7 @@ def load_saved_teams():
    return data.get('teams', [])
 
 
-def save_team(team_id, team_name, club_name):
+def save_team(team_id, team_name, club_name, club_logo):
    ensure_data_directory()
 
    teams = load_saved_teams()
@@ -43,7 +43,8 @@ def save_team(team_id, team_name, club_name):
    teams.append({
       'id': team_id,
       'name': team_name,
-      'club': club_name
+      'club': club_name,
+      'logo': club_logo
    })
 
    teams.sort(key=lambda team: int(team['id']))

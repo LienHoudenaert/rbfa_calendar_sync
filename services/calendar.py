@@ -123,7 +123,7 @@ def generate_ical_feed(calendar_items, team_id):
    # IMPORTANT:
    # This URL is now served by our Flask application.
    return url_for(
-      'serve_ical',
+      'calendars.serve_ical',
       filename=file_name,
       _external=True
    )

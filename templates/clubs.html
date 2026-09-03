@@ -1,46 +1,101 @@
 {% extends "base.html" %} {% block content %}
-<div class="responsive_width">
-    {% if club_results %}
-    <h3 class="text-uppercase">
-        {{ _('Clubs found for "%(search)s":', search=search) }}
-    </h3>
-    <p class="mb-4">
-        {{ _('If your club is not in this list, try again with a more specific
-        search.')}}
-    </p>
-    <div class="row">
-        {% for club in club_results %}
-        <form
-            id="select_club"
-            action="/get_teams"
-            method="POST"
-            class="col-12 col-lg-6"
-        >
-            <input type="hidden" name="club_id" value="{{ club.id }}" />
-            <input type="hidden" name="club_name" value="{{ club.clubName }}" />
-            <div class="card mb-3" onclick="this.closest('form').submit()">
-                <div class="row no-gutters">
-                    <div class="col-auto">
-                        <img
-                            src="{{ club.logo }}"
-                            class="card-img club_image"
-                            alt="{{ club.clubName }}"
-                        />
-                    </div>
-                    <div class="col-auto">
-                        <div class="card-body">
-                            <h6 class="card-title">{{ club.clubName }}</h6>
-                        </div>
-                    </div>
+
+<section class="page-section">
+    <div class="container">
+        {% if club_results %}
+
+        <div class="page-header page-header-simple">
+            <div>
+                <a href="{{ url_for('main.index') }}" class="back-link">
+                    <i class="bi bi-arrow-left"></i>
+                    {{ _('Back to search') }}
+                </a>
+
+                <div class="eyebrow d-block">
+                    <i class="bi bi-search"></i>
+                    {{ _('Search results for %(search)s', search=search) }}
                 </div>
+
+                <div class="d-flex gap-3">
+                    <span class="step-number">1</span>
+                    <h2 class="text-uppercase">{{ _('Find your club') }}</h2>
+                </div>
+
+                <p>
+                    {{ _('If your club is not in this list, try again with a
+                    more specific search.') }}
+                </p>
             </div>
-        </form>
-        {% endfor %}
+        </div>
+
+        <div class="row g-4">
+            {% for club in club_results %}
+
+            <div class="col-12 col-md-6">
+                <form
+                    id="select_club"
+                    action="/get_teams"
+                    method="POST"
+                    class="h-100"
+                >
+                    <input type="hidden" name="club_id" value="{{ club.id }}" />
+                    <input
+                        type="hidden"
+                        name="club_name"
+                        value="{{ club.clubName }}"
+                    />
+                    <input
+                        type="hidden"
+                        name="club_logo"
+                        value="{{ club.logo }}"
+                    />
+
+                    <button type="submit" class="club-card w-100 text-start">
+                        <div class="club-logo-wrapper">
+                            <img
+                                src="{{ club.logo }}"
+                                class="club-image"
+                                alt="{{ club.clubName }}"
+                            />
+                        </div>
+
+                        <div class="club-card-content">
+                            <span class="club-label"
+                                >{{ _('Football club') }}</span
+                            >
+
+                            <h3>{{ club.clubName }}</h3>
+                        </div>
+
+                        <span class="club-card-arrow">
+                            <i class="bi bi-arrow-right"></i>
+                        </span>
+                    </button>
+                </form>
+            </div>
+
+            {% endfor %}
+        </div>
+
+        {% else %}
+
+        <div class="empty-state">
+            <div class="empty-state-icon">
+                <i class="bi bi-search"></i>
+            </div>
+
+            <h3>
+                {{ _('No clubs found for %(search)s, please try again!',
+                search=search) }}
+            </h3>
+
+            <a href="{{ url_for('main.index') }}" class="btn btn-brand mt-3">
+                {{ _('Try another search') }}
+            </a>
+        </div>
+
+        {% endif %}
     </div>
-    {% else %}
-    <h5>
-        {{ _('No clubs found for %(search)s, please try again!', search=search)
-        }}
-    </h5>
-</div>
-{% endif %} {% endblock %}
+</section>
+
+{% endblock %}

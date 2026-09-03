@@ -33,6 +33,7 @@ def get_team_calendar():
     team_id = request.form['team_id']
     team_name = request.form['team_name']
     club_name = request.form['club_name']
+    club_logo = request.form['club_logo']
 
     if team_is_saved(team_id) and calendar_file_exists(team_id):
         ical_url = url_for(
@@ -44,7 +45,8 @@ def get_team_calendar():
         save_team(
             team_id=team_id,
             team_name=team_name,
-            club_name=club_name
+            club_name=club_name,
+            club_logo=club_logo
         )
 
         ical_url = refresh_team_calendar(team_id)
@@ -53,7 +55,8 @@ def get_team_calendar():
         'calendar.html',
         ical_link=ical_url,
         team_name=team_name,
-        club_name=club_name
+        club_name=club_name,
+        club_logo=club_logo
     )
 
 

@@ -1,51 +1,113 @@
 {% extends "base.html" %} {% block content %}
-<div class="responsive_width">
-    <h1>Saved calendars</h1>
 
-    {% if teams %}
-    <table class="table table-sm mt-4">
-        <thead class="table-light">
-            <tr>
-                <th>Club</th>
-                <th>Team</th>
-                <th class="text-end">Calendar</th>
-            </tr>
-        </thead>
-        <tbody>
-            {% for team in teams %}
-            <tr>
-                <td style="vertical-align: middle">
-                    <span>{{ team.club }}</span>
-                </td>
-                <td style="vertical-align: middle">
-                    <span>{{ team.name }}</span>
-                </td>
-                <td style="vertical-align: middle" class="text-end">
-                    <span id="calendar-link-{{ team.id }}">
-                        {{ url_for( 'calendars.serve_ical', filename=team.id ~
-                        '.ics', _external=True ) }}
-                    </span>
-                    <button
-                        type="button"
-                        class="ms-3 btn btn-sm btn-primary"
-                        onclick="copyToClipboard('calendar-link-{{ team.id }}', this)"
-                        title="{{ _('Copy calendar link') }}"
-                    >
-                        <i class="bi bi-clipboard"></i>
-                    </button>
-                </td>
-            </tr>
-            {% endfor %}
-        </tbody>
-    </table>
+<section class="page-section">
+    <div class="container">
+        <div class="page-header">
+            <div>
+                <span class="eyebrow">
+                    <i class="bi bi-bookmark"></i>
+                    {{ _('Your calendars') }}
+                </span>
 
-    {% else %}
-    <p>No calendars have been saved yet.</p>
-    {% endif %}
+                <h2 class="text-uppercase">{{ _('Saved calendars') }}</h1>
 
-    <a class="btn btn-secondary" href="{{ url_for('main.index') }}">
-        Back to search
-    </a>
-</div>
+                <p>
+                    {{ _('Access and copy the calendar links you have already created.') }}
+                </p>
+            </div>
+
+            <a class="btn btn-brand" href="{{ url_for('main.index') }}">
+                <i class="bi bi-plus-lg me-1"></i>
+                {{ _('Create new calendar') }}
+            </a>
+        </div>
+
+        {% if teams %}
+
+        <div class="content-card">
+            <div class="table-responsive">
+                <table class="table app-table align-middle mb-0">
+                    <thead>
+                        <tr>
+                            <th>{{ _('Club') }}</th>
+                            <th>{{ _('Team') }}</th>
+                            <th class="text-end">{{ _('Calendar link') }}</th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                        {% for team in teams %}
+
+                        <tr>
+                            <td>
+                                <div class="d-flex align-items-center gap-2">
+                                    <span class="table-icon me-3">
+                                        <img
+                                            src="{{ team.logo }}"
+                                            class="club-image"
+                                            alt="{{ team.club }}"
+                                            height="40"
+                                            width="40"
+                                            style="object-fit: contain; object-position: center;"
+                                        />
+                                    </span>
+
+                                    <strong>{{ team.club }}</strong>
+                                </div>
+                            </td>
+
+                            <td>{{ team.name }}</td>
+
+                            <td class="text-end">
+                                <div class="calendar-link-wrapper">
+                                    <span
+                                        id="calendar-link-{{ team.id }}"
+                                        class="calendar-url"
+                                    >
+                                        {{ url_for( 'calendars.serve_ical',
+                                        filename=team.id ~ '.ics',
+                                        _external=True ) }}
+                                    </span>
+
+                                    <button
+                                        type="button"
+                                        class="btn btn-sm btn-outline-brand"
+                                        onclick="copyToClipboard('calendar-link-{{ team.id }}', this)"
+                                        title="{{ _('Copy calendar link') }}"
+                                    >
+                                        <i class="bi bi-clipboard"></i>
+                                    </button>
+                                </div>
+                            </td>
+                        </tr>
+
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        {% else %}
+
+        <div class="empty-state">
+            <div class="empty-state-icon">
+                <i class="bi bi-calendar-x"></i>
+            </div>
+
+            <h3>{{ _('No calendars saved yet') }}</h3>
+
+            <p>
+                {{ _('Create your first calendar by searching for your football club.') }}
+            </p>
+
+            <a class="btn btn-brand" href="{{ url_for('main.index') }}">
+                <i class="bi bi-search me-1"></i>
+                {{ _('Search for a club') }}
+            </a>
+        </div>
+
+        {% endif %}
+    </div>
+</section>
 
 {% endblock %}

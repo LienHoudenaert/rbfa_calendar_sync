@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: lien.houdenaert@gmail.com\n"
-"POT-Creation-Date: 2026-09-02 18:38+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2026-09-03 22:17+0200\n"
+"PO-Revision-Date: 2026-09-03 22:09+0200\n"
 "Last-Translator: Lien Houdenaert <lien.houdenaert@gmail.com>\n"
 "Language: nl\n"
 "Language-Team: nl <LL@li.org>\n"
@@ -18,48 +18,228 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.18.0\n"
 
-#: templates/base.html:6 templates/base.html:35
-msgid "RBFA Calendar Generator"
-msgstr "RBFA Kalendergenerator"
+#: templates/base.html:7 templates/base.html:46 templates/base.html:117
+#: templates/index.html:10
+msgid "RBFA Calendar Sync"
+msgstr "RBFA Kalender Sync "
 
-#: templates/calendar.html:3
-msgid "Copy the link below to subscribe to the calendar:"
-msgstr "Kopieer de onderstaande link om je op de kalender te abonneren:"
+#: templates/base.html:40 templates/base.html:112
+msgid "Logo"
+msgstr "Logo"
 
-#: templates/calendar.html:13 templates/calendars.html:30
-msgid "Copy"
-msgstr "Kopiëren"
+#: templates/base.html:57 templates/base.html:125 templates/calendars.html:12
+msgid "Saved calendars"
+msgstr "Opgeslagen kalenders"
 
-#: templates/calendar.html:17 templates/calendars.html:39
-msgid "Copied to clipboard!"
-msgstr "Gekopieerd naar het klembord!"
+#: templates/base.html:122
+msgid "Home"
+msgstr "Home"
 
-#: templates/clubs.html:2
+#: templates/calendars.html:9
+msgid "Your calendars"
+msgstr "Jouw kalenders"
+
+#: templates/calendars.html:15
+msgid "Access and copy the calendar links you have already created."
+msgstr "Bekijk en kopieer de kalenderlinks die je al hebt aangemaakt."
+
+#: templates/calendars.html:21
+msgid "Create new calendar"
+msgstr "Nieuwe kalender aanmaken"
+
+#: templates/calendars.html:32
+msgid "Club"
+msgstr "Club"
+
+#: templates/calendars.html:33 templates/teams.html:63
+msgid "Team"
+msgstr "Team"
+
+#: templates/calendars.html:34
+msgid "Calendar link"
+msgstr "Kalenderlink"
+
+#: templates/calendars.html:76
+msgid "Copy calendar link"
+msgstr "Kalenderlink kopiëren"
+
+#: templates/calendars.html:97
+msgid "No calendars saved yet"
+msgstr "Nog geen kalenders opgeslagen"
+
+#: templates/calendars.html:100
+msgid "Create your first calendar by searching for your football club."
+msgstr "Maak je eerste kalender aan door te zoeken naar jouw voetbalclub."
+
+#: templates/calendars.html:105
+msgid "Search for a club"
+msgstr "Zoek een club"
+
+#: templates/clubs.html:11 templates/teams.html:12
+msgid "Back to search"
+msgstr "Terug naar zoeken"
+
+#: templates/clubs.html:16
 #, python-format
-msgid "Clubs found for \"%(search)s\":"
-msgstr "Clubs gevonden voor \"%(search)s\":"
+msgid "Search results for %(search)s"
+msgstr "Zoekresultaten voor %(search)s"
 
-#: templates/clubs.html:3
-msgid "If your club is not in this list, try again with a more specific search."
-msgstr ""
-"Als je club niet in deze lijst staat, probeer dan opnieuw met een "
-"specifiekere zoekopdracht."
+#: templates/clubs.html:21
+msgid "Find your club"
+msgstr "Vind jouw club"
 
 #: templates/clubs.html:25
+msgid ""
+"If your club is not in this list, try again with a\n"
+"                    more specific search."
+msgstr ""
+"Staat jouw club niet in deze lijst? Probeer opnieuw met een\n"
+"                    specifiekere zoekopdracht."
+
+#: templates/clubs.html:64
+msgid "Football club"
+msgstr "Voetbalclub"
+
+#: templates/clubs.html:88
 #, python-format
 msgid "No clubs found for %(search)s, please try again!"
 msgstr "Geen clubs gevonden voor %(search)s, probeer opnieuw!"
 
-#: templates/index.html:3
-msgid "SEARCH A CLUB"
-msgstr "ZOEK EEN CLUB"
+#: templates/clubs.html:93
+msgid "Try another search"
+msgstr "Probeer een andere zoekopdracht"
 
 #: templates/index.html:14
+msgid "Sync your football calendar with ease."
+msgstr "Synchroniseer eenvoudig je voetbalkalender."
+
+#: templates/index.html:18
+msgid ""
+"Search for your club, select your team and add the\n"
+"                    RBFA calendar directly to your favourite calendar\n"
+"                    application."
+msgstr ""
+"Zoek je club, selecteer je team en voeg de\n"
+"                    RBFA-kalender rechtstreeks toe aan je favoriete\n"
+"                    kalenderapplicatie."
+
+#: templates/index.html:30
+msgid "Search a club"
+msgstr "Zoek een club"
+
+#: templates/index.html:33
+msgid ""
+"Start by searching for your football\n"
+"                                club."
+msgstr ""
+"Begin met het zoeken naar jouw\n"
+"                                voetbalclub."
+
+#: templates/index.html:50
+msgid "Search for your club"
+msgstr "Zoek jouw club"
+
+#: templates/index.html:54
 msgid "Search"
 msgstr "Zoeken"
 
-#: templates/teams.html:2
-#, python-format
-msgid "%(count)s teams found for %(club)s:"
-msgstr "%(count)s teams gevonden voor %(club)s:"
+#: templates/index.html:80
+msgid "Simple process"
+msgstr "Eenvoudig proces"
+
+#: templates/index.html:81
+msgid "Get your calendar in 3 steps"
+msgstr "Ontvang je kalender in 3 stappen"
+
+#: templates/index.html:91
+msgid "1. Find your club"
+msgstr "1. Vind jouw club"
+
+#: templates/index.html:94
+msgid ""
+"Search for your football club and choose the\n"
+"                        correct result."
+msgstr ""
+"Zoek jouw voetbalclub en kies het\n"
+"                        juiste resultaat."
+
+#: templates/index.html:106
+msgid "2. Select your team"
+msgstr "2. Selecteer je team"
+
+#: templates/index.html:109
+msgid ""
+"Choose the team whose matches you want to\n"
+"                        follow."
+msgstr ""
+"Kies het team waarvan je de wedstrijden wilt\n"
+"                        volgen."
+
+#: templates/index.html:121
+msgid "3. Use your calendar"
+msgstr "3. Gebruik je kalender"
+
+#: templates/index.html:124
+msgid ""
+"Copy the calendar link and subscribe from your\n"
+"                        favourite app."
+msgstr ""
+"Kopieer de kalenderlink en abonneer je vanuit je\n"
+"                        favoriete app."
+
+#: templates/index.html:141
+msgid "Automatic updates"
+msgstr "Automatische updates"
+
+#: templates/index.html:142
+msgid "Your calendar stays up to date."
+msgstr "Je kalender blijft altijd up-to-date."
+
+#: templates/index.html:150
+msgid "Simple and secure"
+msgstr "Eenvoudig en veilig"
+
+#: templates/index.html:151
+msgid "Only the information you need."
+msgstr "Alleen de informatie die je nodig hebt."
+
+#: templates/index.html:159
+msgid "Never miss a match"
+msgstr "Mis nooit meer een match"
+
+#: templates/index.html:160
+msgid "Keep your games in your own calendar."
+msgstr "Bewaar je wedstrijden in je eigen kalender."
+
+#: templates/teams.html:17
+msgid "Team selection"
+msgstr ""
+
+#: templates/teams.html:21
+msgid "Select your team"
+msgstr "Selecteer je team"
+
+#: templates/teams.html:24
+msgid ""
+"Select the team whose calendar you would like to\n"
+"                    sync."
+msgstr ""
+"Kies het team waarvan je de wedstrijden wilt\n"
+"                        volgen."
+
+#: templates/teams.html:86
+msgid "No teams found"
+msgstr "Geen teams gevonden"
+
+#: templates/teams.html:89
+msgid ""
+"We couldn\'t find any teams for this club. Please try\n"
+"                searching again."
+msgstr ""
+"We konden geen teams vinden voor deze club. Probeer opnieuw\n"
+" te zoeken."
+
+#: templates/teams.html:95
+msgid "Search for another club"
+msgstr "Zoek een club"
 

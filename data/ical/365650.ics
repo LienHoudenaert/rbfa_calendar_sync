@@ -1,0 +1,351 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//LienHoudenaert//RBFACalendarSync//NL
+TIMEZONE-ID:Europe/Brussels
+TZID:Europe/Brussels
+X-WR-TIMEZONE:Europe/Brussels
+BEGIN:VEVENT
+SUMMARY:MD HALEN - FC AVERBODE TESTELT OKSELAAR
+DTSTART;TZID=Europe/Brussels:20260722T200000
+DTEND;TZID=Europe/Brussels:20260722T214500
+DTSTAMP:20260903T190823Z
+UID:7500201@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: friendly\nEindstand: 3 - 5
+LOCATION:Sportlaan\, 3545 Halen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:W. KOERSEL - FC AVERBODE TESTELT OKSELAAR
+DTSTART;TZID=Europe/Brussels:20260728T200000
+DTEND;TZID=Europe/Brussels:20260728T214500
+DTSTAMP:20260903T190823Z
+UID:7613794@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType: friendly\nEindstand: 2 - 5
+LOCATION:Sportlaan z/n\, 3582 Koersel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VV LUMMEN - FC AVERBODE TESTELT OKSELAAR
+DTSTART;TZID=Europe/Brussels:20260730T193000
+DTEND;TZID=Europe/Brussels:20260730T211500
+DTSTAMP:20260903T190823Z
+UID:7622335@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: friendly\nEindstand: 3 - 1
+LOCATION:Maria van Loonstraat 5\, 3560 Lummen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VK.Holsbeek B - FC Averbode Testelt Okselaar B
+DTSTART;TZID=Europe/Brussels:20260801T171500
+DTEND;TZID=Europe/Brussels:20260801T190000
+DTSTAMP:20260903T190823Z
+UID:7571618@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType: cup_as_championship\nEindstand: 4 - 
+ 9
+LOCATION:Verhaegenstraat 28a\, 3220 Holsbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Averbode Testelt Okselaar B - K.Eur.90 Kraainem B
+DTSTART;TZID=Europe/Brussels:20260809T160000
+DTEND;TZID=Europe/Brussels:20260809T174500
+DTSTAMP:20260903T190823Z
+UID:7571652@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: cup_as_championship\nEindstand: 
+LOCATION:Vorststraat Z/N\, 3271 Averbode
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SP.MOLENBEEK - FC AVERBODE TESTELT OKSELAAR
+DTSTART;TZID=Europe/Brussels:20260813T193000
+DTEND;TZID=Europe/Brussels:20260813T211500
+DTSTAMP:20260903T190823Z
+UID:7621795@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: friendly\nEindstand: 
+LOCATION:Halensebaan 29\, 3461 Molenbeek-Wersbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SMS.Lubbeek B - FC Averbode Testelt Okselaar B
+DTSTART;TZID=Europe/Brussels:20260817T200000
+DTEND;TZID=Europe/Brussels:20260817T214500
+DTSTAMP:20260903T190823Z
+UID:7571684@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType: cup_as_championship\nEindstand: 0 - 
+ 2
+LOCATION:Gellenberg 18a\, 3210 Lubbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Averbode Testelt Okselaar B - FC.Binkom B
+DTSTART;TZID=Europe/Brussels:20260823T160000
+DTEND;TZID=Europe/Brussels:20260823T174500
+DTSTAMP:20260903T190823Z
+UID:7571716@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: cup_as_championship\nEindstand: 3 - 0
+LOCATION:Vorststraat Z/N\, 3271 Averbode
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Averbode Testelt Okselaar B - RC.Meldert
+DTSTART;TZID=Europe/Brussels:20260830T150000
+DTEND;TZID=Europe/Brussels:20260830T164500
+DTSTAMP:20260903T190823Z
+UID:7516599@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 5 - 1
+LOCATION:Vorststraat Z/N\, 3271 Averbode
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:K.St.Haasrode B - FC Averbode Testelt Okselaar B
+DTSTART;TZID=Europe/Brussels:20260905T180000
+DTEND;TZID=Europe/Brussels:20260905T194500
+DTSTAMP:20260903T190823Z
+UID:7516602@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType: championship\nEindstand: 
+LOCATION:Kartuizerstraat 2\, 3052 Blanden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Averbode Testelt Okselaar B - Cr.Vissenaken
+DTSTART;TZID=Europe/Brussels:20260913T150000
+DTEND;TZID=Europe/Brussels:20260913T164500
+DTSTAMP:20260903T190823Z
+UID:7516617@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Vorststraat Z/N\, 3271 Averbode
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SC.Out-Hoegaarden B - FC Averbode Testelt Okselaar B
+DTSTART;TZID=Europe/Brussels:20260920T170000
+DTEND;TZID=Europe/Brussels:20260920T184500
+DTSTAMP:20260903T190823Z
+UID:7516625@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType: championship\nEindstand: 
+LOCATION:Tiensestraat 43\, 3320 Hoegaarden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SMS.Lubbeek A - FC Averbode Testelt Okselaar B
+DTSTART;TZID=Europe/Brussels:20260926T203000
+DTEND;TZID=Europe/Brussels:20260926T221500
+DTSTAMP:20260903T190823Z
+UID:7516630@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType: championship\nEindstand: 
+LOCATION:Gellenberg 18a\, 3210 Lubbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Averbode Testelt Okselaar B - KVC.Kessel-Lo 2000 B
+DTSTART;TZID=Europe/Brussels:20261003T170000
+DTEND;TZID=Europe/Brussels:20261003T184500
+DTSTAMP:20260903T190823Z
+UID:7516638@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Vorststraat Z/N\, 3271 Averbode
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RD.Zoutleeuw A - FC Averbode Testelt Okselaar B
+DTSTART;TZID=Europe/Brussels:20261010T200000
+DTEND;TZID=Europe/Brussels:20261010T214500
+DTSTAMP:20260903T190823Z
+UID:7516645@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Stationsstraat 46\, 3440 Zoutleeuw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Averbode Testelt Okselaar B - Meensel-Kiezegem
+DTSTART;TZID=Europe/Brussels:20261018T150000
+DTEND;TZID=Europe/Brussels:20261018T164500
+DTSTAMP:20260903T190823Z
+UID:7516654@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Vorststraat Z/N\, 3271 Averbode
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RWL.Sport A - FC Averbode Testelt Okselaar B
+DTSTART;TZID=Europe/Brussels:20261025T143000
+DTEND;TZID=Europe/Brussels:20261025T161500
+DTSTAMP:20260903T190823Z
+UID:7516663@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Langestraat\, 3202 Rillaar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Averbode Testelt Okselaar B - SNA.Keiberg
+DTSTART;TZID=Europe/Brussels:20261101T143000
+DTEND;TZID=Europe/Brussels:20261101T161500
+DTSTAMP:20260903T190823Z
+UID:7516672@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Vorststraat Z/N\, 3271 Averbode
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boutersem United A - FC Averbode Testelt Okselaar B
+DTSTART;TZID=Europe/Brussels:20261107T193000
+DTEND;TZID=Europe/Brussels:20261107T211500
+DTSTAMP:20260903T190823Z
+UID:7516674@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Valkenberg (Oude Baan)\, 3370 Roosbeek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Averbode Testelt Okselaar B - VC.Bekkevoort
+DTSTART;TZID=Europe/Brussels:20261115T143000
+DTEND;TZID=Europe/Brussels:20261115T161500
+DTSTAMP:20260903T190823Z
+UID:7516688@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Vorststraat Z/N\, 3271 Averbode
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SC.Aarschot A - FC Averbode Testelt Okselaar B
+DTSTART;TZID=Europe/Brussels:20261122T143000
+DTEND;TZID=Europe/Brussels:20261122T161500
+DTSTAMP:20260903T190823Z
+UID:7516694@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType: championship\nEindstand: 
+LOCATION:Grote Laakweg 29\, 3200 Aarschot
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Averbode Testelt Okselaar B - VS.Kortenaken
+DTSTART;TZID=Europe/Brussels:20261129T143000
+DTEND;TZID=Europe/Brussels:20261129T161500
+DTSTAMP:20260903T190823Z
+UID:7516703@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Vorststraat Z/N\, 3271 Averbode
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Korbeek Sp. - FC Averbode Testelt Okselaar B
+DTSTART;TZID=Europe/Brussels:20261205T190000
+DTEND;TZID=Europe/Brussels:20261205T204500
+DTSTAMP:20260903T190823Z
+UID:7516707@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Bierbeekstraat\, 3360 Korbeek-Lo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Averbode Testelt Okselaar B - K.St.Haasrode B
+DTSTART;TZID=Europe/Brussels:20261213T143000
+DTEND;TZID=Europe/Brussels:20261213T161500
+DTSTAMP:20260903T190823Z
+UID:7516717@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Vorststraat Z/N\, 3271 Averbode
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Averbode Testelt Okselaar B - SMS.Lubbeek A
+DTSTART;TZID=Europe/Brussels:20270110T143000
+DTEND;TZID=Europe/Brussels:20270110T161500
+DTSTAMP:20260903T190823Z
+UID:7516728@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Vorststraat Z/N\, 3271 Averbode
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cr.Vissenaken - FC Averbode Testelt Okselaar B
+DTSTART;TZID=Europe/Brussels:20270116T193000
+DTEND;TZID=Europe/Brussels:20270116T211500
+DTSTAMP:20260903T190823Z
+UID:7516733@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType: championship\nEindstand: 
+LOCATION:Sint Pietersstraat\, 3300 Vissenaken
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Averbode Testelt Okselaar B - Boutersem United A
+DTSTART;TZID=Europe/Brussels:20270124T143000
+DTEND;TZID=Europe/Brussels:20270124T161500
+DTSTAMP:20260903T190823Z
+UID:7516743@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Vorststraat Z/N\, 3271 Averbode
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VC.Bekkevoort - FC Averbode Testelt Okselaar B
+DTSTART;TZID=Europe/Brussels:20270131T150000
+DTEND;TZID=Europe/Brussels:20270131T164500
+DTSTAMP:20260903T190823Z
+UID:7516752@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType: championship\nEindstand: 
+LOCATION:Oude Tiensebaan 20A\, 3460 Bekkevoort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VS.Kortenaken - FC Averbode Testelt Okselaar B
+DTSTART;TZID=Europe/Brussels:20270214T150000
+DTEND;TZID=Europe/Brussels:20270214T164500
+DTSTAMP:20260903T190823Z
+UID:7516758@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Nieuwstraat 31\, 3471 Hoeleden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Averbode Testelt Okselaar B - RWL.Sport A
+DTSTART;TZID=Europe/Brussels:20270221T150000
+DTEND;TZID=Europe/Brussels:20270221T164500
+DTSTAMP:20260903T190823Z
+UID:7516767@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Vorststraat Z/N\, 3271 Averbode
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SNA.Keiberg - FC Averbode Testelt Okselaar B
+DTSTART;TZID=Europe/Brussels:20270227T193000
+DTEND;TZID=Europe/Brussels:20270227T211500
+DTSTAMP:20260903T190823Z
+UID:7516771@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Weg Messelbroek 181\, 3271 Zichem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Averbode Testelt Okselaar B - RD.Zoutleeuw A
+DTSTART;TZID=Europe/Brussels:20270307T150000
+DTEND;TZID=Europe/Brussels:20270307T164500
+DTSTAMP:20260903T190823Z
+UID:7516785@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Vorststraat Z/N\, 3271 Averbode
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KVC.Kessel-Lo 2000 B - FC Averbode Testelt Okselaar B
+DTSTART;TZID=Europe/Brussels:20270313T180000
+DTEND;TZID=Europe/Brussels:20270313T194500
+DTSTAMP:20260903T190823Z
+UID:7516786@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType: championship\nEindstand: 
+LOCATION:Stadionlaan 8\, 3010 Kessel-Lo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Averbode Testelt Okselaar B - SC.Out-Hoegaarden B
+DTSTART;TZID=Europe/Brussels:20270321T150000
+DTEND;TZID=Europe/Brussels:20270321T164500
+DTSTAMP:20260903T190823Z
+UID:7516798@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Vorststraat Z/N\, 3271 Averbode
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Averbode Testelt Okselaar B - SC.Aarschot A
+DTSTART;TZID=Europe/Brussels:20270404T150000
+DTEND;TZID=Europe/Brussels:20270404T164500
+DTSTAMP:20260903T190823Z
+UID:7516807@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Vorststraat Z/N\, 3271 Averbode
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RC.Meldert - FC Averbode Testelt Okselaar B
+DTSTART;TZID=Europe/Brussels:20270410T193000
+DTEND;TZID=Europe/Brussels:20270410T211500
+DTSTAMP:20260903T190823Z
+UID:7516812@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Meerstraat\, 3320 Meldert
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Averbode Testelt Okselaar B - Korbeek Sp.
+DTSTART;TZID=Europe/Brussels:20270418T150000
+DTEND;TZID=Europe/Brussels:20270418T164500
+DTSTAMP:20260903T190823Z
+UID:7516824@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Vorststraat Z/N\, 3271 Averbode
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meensel-Kiezegem - FC Averbode Testelt Okselaar B
+DTSTART;TZID=Europe/Brussels:20270425T150000
+DTEND;TZID=Europe/Brussels:20270425T164500
+DTSTAMP:20260903T190823Z
+UID:7516832@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+LOCATION:Tieltsestraat 16\, 3391 Meensel-Kiezegem
+END:VEVENT
+END:VCALENDAR

@@ -1,25 +1,63 @@
 {% extends "base.html" %} {% block content %}
-<div class="responsive_width">
-    {% if ical_link %}
-    <h3 class="text-uppercase mb-4">Generated link:</h3>
-    <p>{{ _('Copy the link below to subscribe to the calendar:')}}</p>
-    <div class="input-group copy-container">
-        <input
-            type="text"
-            class="form-control"
-            id="icalLink"
-            value="{{ical_link }}"
-            readonly
-        />
-        <button
-            type="button"
-            class="btn btn-primary"
-            onclick="copyToClipboard('icalLink', this)"
-            title="{{ _('Copy calendar link') }}"
-        >
-            <i class="bi bi-clipboard"></i>
-        </button>
+
+<section class="page-section">
+    <div class="container">
+        <div class="page-header page-header-simple">
+            <div>
+                <a href="{{ url_for('main.index') }}" class="back-link">
+                    <i class="bi bi-arrow-left"></i>
+                    {{ _('Back to search') }}
+                </a>
+                <div class="eyebrow d-block">
+                    <i class="bi bi-check"></i>
+                    {{ _('Calendar ready') }}
+                </div>
+
+                <div class="d-flex gap-3">
+                    <span class="step-number">3</span>
+                    <h2 class="text-uppercase">{{ _('Use your calendar') }}</h2>
+                </div>
+
+                <p>
+                    {{ _('Use the link below to subscribe to your team's
+                    calendar.') }}
+                </p>
+            </div>
+        </div>
+
+        <div class="calendar-result-card">
+            <div class="input-group copy-container">
+                <input
+                    type="text"
+                    class="form-control"
+                    id="icalLink"
+                    value="{{ical_link }}"
+                    readonly
+                />
+                <button
+                    type="button"
+                    class="btn btn-outline-brand"
+                    onclick="copyToClipboard('icalLink', this)"
+                    title="{{ _('Copy calendar link') }}"
+                >
+                    <i class="bi bi-clipboard"></i>
+                </button>
+            </div>
+        </div>
+
+        <div class="info-box mt-4">
+            <i class="bi bi-info-circle"></i>
+
+            <div>
+                <strong>{{ _('How does this work?') }}</strong>
+                <p class="mb-0">
+                    {{ _('Copy the calendar URL and add it as a subscription in
+                    Google Calendar, Apple Calendar, Outlook or another
+                    compatible calendar application.') }}
+                </p>
+            </div>
+        </div>
     </div>
-    {% endif %}
-</div>
+</section>
+
 {% endblock %}
