@@ -31,6 +31,7 @@ def calendars():
 
 @calendars_bp.route('/get_team_calendar', methods=['POST'])
 def get_team_calendar():
+
     team_id = request.form['team_id']
     team_name = request.form['team_name']
     club_name = request.form['club_name']

@@ -567,6 +567,62 @@ a {
     transition: transform 0.2s ease;
 }
 
+/* --------------------------------------------------
+   Team selection loading state
+   -------------------------------------------------- */
+
+.loading-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background: rgba(0, 0, 0, 0.45);
+
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+
+  transition:
+    opacity 0.2s ease,
+    visibility 0.2s ease;
+}
+
+.loading-overlay.is-visible {
+  opacity: 1;
+  visibility: visible;
+  pointer-events: all;
+}
+
+.loading-spinner-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.loading-spinner {
+  width: 3rem;
+  height: 3rem;
+  border-width: 0.35rem;
+}
+
+/* Make it visually obvious that the team cards are disabled */
+.team-card:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+  transform: none;
+}
+
+/* Don't allow the hover effect while loading */
+body.is-loading .team-card:hover {
+  border-color: var(--rbfa-border);
+  transform: none;
+  box-shadow: none;
+}
+
 
 /* --------------------------------------------------
    Calendar result

@@ -100,4 +100,22 @@
     </div>
 </section>
 
+<div
+  id="loading-overlay"
+  class="loading-overlay"
+  aria-hidden="true"
+>
+  <div class="loading-spinner-container">
+    <div
+      class="spinner-border text-light loading-spinner"
+      role="status"
+      aria-label="{{ _('Loading') }}"
+    >
+      <span class="visually-hidden">{{ _('Loading') }}...</span>
+    </div>
+  </div>
+</div>
+
+<script src="{{ url_for('static', filename='js/calendar_loading.js') }}"></script>
+
 {% endblock %}
