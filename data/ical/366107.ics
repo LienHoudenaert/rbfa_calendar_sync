@@ -1,0 +1,330 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//RBFA Calendar Sync//NL
+X-WR-TIMEZONE:Europe/Brussels
+BEGIN:VEVENT
+SUMMARY:K. ZWAL. OLMEN - K. BLAUWV. OEVEL
+DTSTART;TZID=Europe/Brussels:20260728T193000
+DTEND;TZID=Europe/Brussels:20260728T211500
+DTSTAMP:20260904T144346Z
+UID:7628598@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Vriendschappelijk\nEindsta
+ nd: 
+LOCATION:Egstraat\, 2491 Olmen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:K. BLAUWV. OEVEL - KFC HEULTJE
+DTSTART;TZID=Europe/Brussels:20260806T190000
+DTEND;TZID=Europe/Brussels:20260806T204500
+DTSTAMP:20260904T144346Z
+UID:7639038@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Vriendschappelijk\nEindstand: 
+LOCATION:Geneinde\, Tongerlo\, 2260 Westerlo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:K. BLAUWV. OEVEL - VV-NEXT LAAKDAL
+DTSTART;TZID=Europe/Brussels:20260807T190000
+DTEND;TZID=Europe/Brussels:20260807T204500
+DTSTAMP:20260904T144346Z
+UID:7565128@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Vriendschappelijk\nEindstand: 
+LOCATION:Ilsestraat\, 2260 Oevel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VC WESTERLO KEMPHANEN - K. BLAUWV. OEVEL
+DTSTART;TZID=Europe/Brussels:20260813T190000
+DTEND;TZID=Europe/Brussels:20260813T204500
+DTSTAMP:20260904T144346Z
+UID:7644340@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Vriendschappelijk\nEindstand: 
+LOCATION:Geneinde\, Tongerlo\, 2260 Westerlo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:K. BLAUWV. OEVEL - K.F.C. ZAMMEL
+DTSTART;TZID=Europe/Brussels:20260819T190000
+DTEND;TZID=Europe/Brussels:20260819T204500
+DTSTAMP:20260904T144346Z
+UID:7565129@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Vriendschappelijk\nEindstand: 
+LOCATION:Ilsestraat\, 2260 Oevel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KFC HEULTJE - K. BLAUWV. OEVEL
+DTSTART;TZID=Europe/Brussels:20260820T190000
+DTEND;TZID=Europe/Brussels:20260820T204500
+DTSTAMP:20260904T144346Z
+UID:7726643@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Vriendschappelijk\nEindstand: 
+LOCATION:Geneinde\, Tongerlo\, 2260 Westerlo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KFC Verbr. Alberta B 1 - K. Blauwv. Oevel A 1
+DTSTART;TZID=Europe/Brussels:20260829T123000
+DTEND;TZID=Europe/Brussels:20260829T141500
+DTSTAMP:20260904T144346Z
+UID:7533113@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Hollandsebaan 26 b\, 2440 Geel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:K. Blauwv. Oevel A 1 - KSKS Herentals B 1
+DTSTART;TZID=Europe/Brussels:20260905T150000
+DTEND;TZID=Europe/Brussels:20260905T164500
+DTSTAMP:20260904T144346Z
+UID:7533124@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Ilsestraat\, 2260 Oevel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:K. Blauwv. Oevel A 1 - K. Noordstar VV B 1
+DTSTART;TZID=Europe/Brussels:20260912T140000
+DTEND;TZID=Europe/Brussels:20260912T154500
+DTSTAMP:20260904T144346Z
+UID:7533132@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Ilsestraat\, 2260 Oevel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KFC Tongerlo C 1 - K. Blauwv. Oevel A 1
+DTSTART;TZID=Europe/Brussels:20260919T150000
+DTEND;TZID=Europe/Brussels:20260919T164500
+DTSTAMP:20260904T144346Z
+UID:7533140@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Geneinde\, Tongerlo\, 2260 Westerlo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:K. Blauwv. Oevel A 1 - K Witgoor Sp Dessel B 1
+DTSTART;TZID=Europe/Brussels:20260926T140000
+DTEND;TZID=Europe/Brussels:20260926T154500
+DTSTAMP:20260904T144346Z
+UID:7533149@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Ilsestraat\, 2260 Oevel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:K.F.C. Arendonk Sport C 1 - K. Blauwv. Oevel A 1
+DTSTART;TZID=Europe/Brussels:20261002T200000
+DTEND;TZID=Europe/Brussels:20261002T214500
+DTSTAMP:20260904T144346Z
+UID:7533151@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Heikant 32\, 2370 Arendonk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:K. Blauwv. Oevel A 1 - VV-NEXT Laakdal C 1
+DTSTART;TZID=Europe/Brussels:20261010T140000
+DTEND;TZID=Europe/Brussels:20261010T154500
+DTSTAMP:20260904T144346Z
+UID:7533164@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Ilsestraat\, 2260 Oevel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:K.F.C. Zammel B 1 - K. Blauwv. Oevel A 1
+DTSTART;TZID=Europe/Brussels:20261016T193000
+DTEND;TZID=Europe/Brussels:20261016T211500
+DTSTAMP:20260904T144346Z
+UID:7533166@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Veestraat 1\, 2440 Geel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RBW Molse SK 1 - K. Blauwv. Oevel A 1
+DTSTART;TZID=Europe/Brussels:20261024T133000
+DTEND;TZID=Europe/Brussels:20261024T151500
+DTSTAMP:20260904T144346Z
+UID:7533180@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Moresnetlaan\, 2400 Mol
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:K. Blauwv. Oevel A 1 - K.F.C. Arendonk Sport E 1
+DTSTART;TZID=Europe/Brussels:20261031T140000
+DTEND;TZID=Europe/Brussels:20261031T154500
+DTSTAMP:20260904T144346Z
+UID:7533186@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Ilsestraat\, 2260 Oevel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KSK Kasterlee B 1 - K. Blauwv. Oevel A 1
+DTSTART;TZID=Europe/Brussels:20261106T193000
+DTEND;TZID=Europe/Brussels:20261106T211500
+DTSTAMP:20260904T144346Z
+UID:7533192@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Duineneind\, 2460 Kasterlee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:K. Blauwv. Oevel A 1 - Olen United B 1
+DTSTART;TZID=Europe/Brussels:20261114T143000
+DTEND;TZID=Europe/Brussels:20261114T161500
+DTSTAMP:20260904T144346Z
+UID:7533203@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Ilsestraat\, 2260 Oevel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:K. Blauwv. Oevel A 1 - KSK Oosthoven C 1
+DTSTART;TZID=Europe/Brussels:20261121T140000
+DTEND;TZID=Europe/Brussels:20261121T154500
+DTSTAMP:20260904T144346Z
+UID:7533212@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Ilsestraat\, 2260 Oevel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:K. Berg en Dal VV B 1 - K. Blauwv. Oevel A 1
+DTSTART;TZID=Europe/Brussels:20261127T193000
+DTEND;TZID=Europe/Brussels:20261127T211500
+DTSTAMP:20260904T144346Z
+UID:7533215@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Sportlaan\, 2450 Meerhout
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:K. Blauwv. Oevel A 1 - KFC Beekhoek Sp. B 1
+DTSTART;TZID=Europe/Brussels:20261205T140000
+DTEND;TZID=Europe/Brussels:20261205T154500
+DTSTAMP:20260904T144346Z
+UID:7533228@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Ilsestraat\, 2260 Oevel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VV-NEXT Laakdal C 1 - K. Blauwv. Oevel A 1
+DTSTART;TZID=Europe/Brussels:20261211T200000
+DTEND;TZID=Europe/Brussels:20261211T214500
+DTSTAMP:20260904T144346Z
+UID:7533231@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Rundershoek 32A\, 2430 Eindhout
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:K. Blauwv. Oevel A 1 - KFC Tongerlo C 1
+DTSTART;TZID=Europe/Brussels:20270109T140000
+DTEND;TZID=Europe/Brussels:20270109T154500
+DTSTAMP:20260904T144346Z
+UID:7533242@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Ilsestraat\, 2260 Oevel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:K Witgoor Sp Dessel B 1 - K. Blauwv. Oevel A 1
+DTSTART;TZID=Europe/Brussels:20270115T200000
+DTEND;TZID=Europe/Brussels:20270115T214500
+DTSTAMP:20260904T144346Z
+UID:7533250@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Wouwerstraat 45\, 2480 Dessel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:K. Blauwv. Oevel A 1 - K.F.C. Arendonk Sport C 1
+DTSTART;TZID=Europe/Brussels:20270123T140000
+DTEND;TZID=Europe/Brussels:20270123T154500
+DTSTAMP:20260904T144346Z
+UID:7533259@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Ilsestraat\, 2260 Oevel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KSK Oosthoven C 1 - K. Blauwv. Oevel A 1
+DTSTART;TZID=Europe/Brussels:20270130T150000
+DTEND;TZID=Europe/Brussels:20270130T164500
+DTSTAMP:20260904T144346Z
+UID:7533269@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Nieuwstraat 41\, 2360 Oud-Turnhout
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olen United B 1 - K. Blauwv. Oevel A 1
+DTSTART;TZID=Europe/Brussels:20270212T193000
+DTEND;TZID=Europe/Brussels:20270212T211500
+DTSTAMP:20260904T144346Z
+UID:7533271@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Gestelstraat-Zandstraat\, 2250 Olen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:K. Blauwv. Oevel A 1 - KSK Kasterlee B 1
+DTSTART;TZID=Europe/Brussels:20270220T140000
+DTEND;TZID=Europe/Brussels:20270220T154500
+DTSTAMP:20260904T144346Z
+UID:7533281@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Ilsestraat\, 2260 Oevel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:K.F.C. Arendonk Sport E 1 - K. Blauwv. Oevel A 1
+DTSTART;TZID=Europe/Brussels:20270226T200000
+DTEND;TZID=Europe/Brussels:20270226T214500
+DTSTAMP:20260904T144346Z
+UID:7533291@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Heikant 32\, 2370 Arendonk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:K. Blauwv. Oevel A 1 - RBW Molse SK 1
+DTSTART;TZID=Europe/Brussels:20270306T140000
+DTEND;TZID=Europe/Brussels:20270306T154500
+DTSTAMP:20260904T144346Z
+UID:7533298@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Ilsestraat\, 2260 Oevel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:K. Noordstar VV B 1 - K. Blauwv. Oevel A 1
+DTSTART;TZID=Europe/Brussels:20270313T150000
+DTEND;TZID=Europe/Brussels:20270313T164500
+DTSTAMP:20260904T144346Z
+UID:7533309@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Tarwestraat 11/1\, 2200 Noorderwijk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:K. Blauwv. Oevel A 1 - K. Berg en Dal VV B 1
+DTSTART;TZID=Europe/Brussels:20270320T140000
+DTEND;TZID=Europe/Brussels:20270320T154500
+DTSTAMP:20260904T144346Z
+UID:7533314@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Ilsestraat\, 2260 Oevel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KSKS Herentals B 1 - K. Blauwv. Oevel A 1
+DTSTART;TZID=Europe/Brussels:20270402T193000
+DTEND;TZID=Europe/Brussels:20270402T211500
+DTSTAMP:20260904T144346Z
+UID:7533319@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Rik Van Looylaan 2\, 2200 Herentals
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:K. Blauwv. Oevel A 1 - KFC Verbr. Alberta B 1
+DTSTART;TZID=Europe/Brussels:20270410T140000
+DTEND;TZID=Europe/Brussels:20270410T154500
+DTSTAMP:20260904T144346Z
+UID:7533332@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Ilsestraat\, 2260 Oevel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KFC Beekhoek Sp. B 1 - K. Blauwv. Oevel A 1
+DTSTART;TZID=Europe/Brussels:20270417T143000
+DTEND;TZID=Europe/Brussels:20270417T161500
+DTSTAMP:20260904T144346Z
+UID:7533339@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Broekstraat\, 2440 Geel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:K. Blauwv. Oevel A 1 - K.F.C. Zammel B 1
+DTSTART;TZID=Europe/Brussels:20270424T140000
+DTEND;TZID=Europe/Brussels:20270424T154500
+DTSTAMP:20260904T144346Z
+UID:7533348@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Ilsestraat\, 2260 Oevel
+END:VEVENT
+END:VCALENDAR
