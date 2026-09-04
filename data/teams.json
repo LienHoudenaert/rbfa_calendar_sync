@@ -1,32 +1,8 @@
 {
   "teams": [
     {
-      "id": "361654",
-      "name": "Eerste Elftal A",
-      "club": "RWL SPORT",
-      "logo": "https://belgianfootball.s3.eu-central-1.amazonaws.com/s3fs-public/rbfa/img/logos/clubs/07162.jpg"
-    },
-    {
-      "id": "365650",
-      "name": "Eerste Elftal B",
-      "club": "F.C. AVERBODE TESTELT OKSELAAR",
-      "logo": "https://belgianfootball.s3.eu-central-1.amazonaws.com/s3fs-public/rbfa/img/logos/clubs/02030.jpg"
-    },
-    {
-      "id": "365651",
-      "name": "Eerste Elftal A",
-      "club": "F.C. AVERBODE TESTELT OKSELAAR",
-      "logo": "https://belgianfootball.s3.eu-central-1.amazonaws.com/s3fs-public/rbfa/img/logos/clubs/02030.jpg"
-    },
-    {
       "id": "365677",
       "name": "Eerste Elftal (Vrouwen)",
-      "club": "K. BLAUWVOET OEVEL",
-      "logo": "https://belgianfootball.s3.eu-central-1.amazonaws.com/s3fs-public/rbfa/img/logos/clubs/02223.jpg"
-    },
-    {
-      "id": "365678",
-      "name": "Eerste Elftal",
       "club": "K. BLAUWVOET OEVEL",
       "logo": "https://belgianfootball.s3.eu-central-1.amazonaws.com/s3fs-public/rbfa/img/logos/clubs/02223.jpg"
     }
