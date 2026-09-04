@@ -1,15 +1,40 @@
 services:
-
   rbfa-calendar:
     build: .
     container_name: rbfa-calendar
     restart: unless-stopped
 
-    ports:
-      - "8080:8080"
+    network_mode: host
 
     volumes:
       - ./data:/app/data
 
     environment:
       TZ: Europe/Brussels
+      GIT_REPO_URL: ${GIT_REPO_URL}
+      GIT_BRANCH: ${GIT_BRANCH:-main}
+      GIT_USER_NAME: ${GIT_USER_NAME}
+      GIT_USER_EMAIL: ${GIT_USER_EMAIL}
+      GITHUB_TOKEN: ${GITHUB_TOKEN}
+
+  rbfa-calendar-updater:
+    build: .
+    container_name: rbfa-calendar-updater
+    restart: unless-stopped
+
+    network_mode: host
+
+    volumes:
+      - ./data:/app/data
+
+    environment:
+      TZ: Europe/Brussels
+
+    command: >
+      sh -c "
+      while true;
+      do
+        python update_calendars.py;
+        sleep 21600;
+      done
+      "

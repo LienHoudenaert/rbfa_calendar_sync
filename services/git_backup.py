@@ -3,6 +3,7 @@ from pathlib import Path
 
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
+BRANCH = "updater"
 
 
 def run_git_command(*args, check=True):
@@ -44,7 +45,7 @@ def backup_new_calendar(calendar_filename):
         run_git_command(
             "commit",
             "-m",
-            f"Added calendar {calendar_filename}",
+            "Update generated calendars",
         )
 
         # Push to GitHub

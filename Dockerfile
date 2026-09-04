@@ -1,4 +1,8 @@
-FROM python:3.13-slim
+FROM python:3.14-slim
+
+RUN apt-get update \
+    && apt-get install -y --no-install-recommends git \
+    && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /app
 
@@ -10,6 +14,6 @@ COPY . .
 
 RUN mkdir -p /app/data/ical
 
-EXPOSE 8080
+EXPOSE 8081
 
-CMD ["gunicorn", "--bind", "0.0.0.0:8080", "app:app"]
+CMD ["gunicorn", "--bind", "0.0.0.0:8081", "app:app"]

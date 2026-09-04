@@ -53,7 +53,7 @@ msgstr "Club"
 
 #: templates/calendars.html:33 templates/teams.html:63
 msgid "Team"
-msgstr "Team"
+msgstr "Ploeg"
 
 #: templates/calendars.html:34
 msgid "Calendar link"
@@ -107,7 +107,7 @@ msgid ""
 "                    calendar."
 msgstr ""
 "Gebruik de onderstaande link om je te abonneren op de\n"
-"                    kalender van je team."
+"                    kalender van je ploeg."
 
 #: templates/clubs.html:16
 #, python-format
@@ -149,7 +149,7 @@ msgid ""
 "                    RBFA calendar directly to your favourite calendar\n"
 "                    application."
 msgstr ""
-"Zoek je club, selecteer je team en voeg de\n"
+"Zoek je club, selecteer je ploeg en voeg de\n"
 "                    RBFA-kalender rechtstreeks toe aan je favoriete\n"
 "                    kalenderapplicatie."
 
@@ -195,14 +195,14 @@ msgstr ""
 
 #: templates/index.html:106
 msgid "2. Select your team"
-msgstr "2. Selecteer je team"
+msgstr "2. Selecteer je ploeg"
 
 #: templates/index.html:109
 msgid ""
 "Choose the team whose matches you want to\n"
 "                        follow."
 msgstr ""
-"Kies het team waarvan je de wedstrijden wilt\n"
+"Kies het ploeg waarvan je de wedstrijden wilt\n"
 "                        volgen."
 
 #: templates/index.html:121
@@ -244,30 +244,30 @@ msgstr "Bewaar je wedstrijden in je eigen kalender."
 
 #: templates/teams.html:17
 msgid "Team selection"
-msgstr "Team selectie"
+msgstr "Ploeg selectie"
 
 #: templates/teams.html:21
 msgid "Select your team"
-msgstr "Selecteer je team"
+msgstr "Selecteer je ploeg"
 
 #: templates/teams.html:24
 msgid ""
 "Select the team whose calendar you would like to\n"
 "                    sync."
 msgstr ""
-"Kies het team waarvan je de wedstrijden wilt\n"
+"Kies het ploeg waarvan je de wedstrijden wilt\n"
 "                        volgen."
 
 #: templates/teams.html:86
 msgid "No teams found"
-msgstr "Geen teams gevonden"
+msgstr "Geen ploegen gevonden"
 
 #: templates/teams.html:89
 msgid ""
 "We couldn\'t find any teams for this club. Please try\n"
 "                searching again."
 msgstr ""
-"We konden geen teams vinden voor deze club. Probeer opnieuw\n"
+"We konden geen ploegen vinden voor deze club. Probeer opnieuw\n"
 " te zoeken."
 
 #: templates/teams.html:95

@@ -115,7 +115,7 @@ Choose the Python version required by the project.
 For example:
 
 ```powershell
-pyenv install 3.13
+pyenv install 3.14
 ```
 
 Check installed versions:
@@ -124,10 +124,10 @@ Check installed versions:
 pyenv versions
 ```
 
-Set Python 3.13 as your global Python version:
+Set Python 3.14 as your global Python version:
 
 ```powershell
-pyenv global 3.13
+pyenv global 3.14
 ```
 
 Verify:
@@ -139,7 +139,7 @@ python --version
 You should see something similar to:
 
 ```text
-Python 3.13.x
+Python 3.14.x
 ```
 
 Also verify which Python executable is being used:
@@ -185,12 +185,12 @@ code .
 Inside the project directory, run:
 
 ```powershell
-pyenv local 3.13
+pyenv local 3.14
 ```
 
 This creates a `.python-version` file.
 
-The project will now use Python 3.13 whenever you work inside this directory.
+The project will now use Python 3.14 whenever you work inside this directory.
 
 Verify:
 
@@ -368,19 +368,19 @@ pyenv install -l
 Install a Python version:
 
 ```powershell
-pyenv install 3.13
+pyenv install 3.14
 ```
 
 Set the global Python version:
 
 ```powershell
-pyenv global 3.13
+pyenv global 3.14
 ```
 
 Set the Python version for the current project:
 
 ```powershell
-pyenv local 3.13
+pyenv local 3.14
 ```
 
 Show the currently selected Python version:
@@ -398,7 +398,7 @@ pyenv which python
 Remove a Python version:
 
 ```powershell
-pyenv uninstall 3.13
+pyenv uninstall 3.14
 ```
 
 After changing or modifying Python installations, pyenv-win provides:
@@ -464,13 +464,13 @@ pyenv versions
 Make sure a Python version has been installed:
 
 ```powershell
-pyenv install 3.13
+pyenv install 3.14
 ```
 
 Then:
 
 ```powershell
-pyenv global 3.13
+pyenv global 3.14
 ```
 
 Restart VS Code if necessary.
@@ -556,7 +556,7 @@ The complete setup is:
 pyenv --version
 
 # Install Python
-pyenv install 3.13
+pyenv install 3.14
 
 # Clone project
 cd C:\Users\<username>\Documents\vscode_code
@@ -566,7 +566,7 @@ git clone https://github.com/LienHoudenaert/rbfa_calendar_sync.git
 cd rbfa_calendar_sync
 
 # Select Python version for this project
-pyenv local 3.13
+pyenv local 3.14
 
 # Create virtual environment
 python -m venv .venv
@@ -591,7 +591,7 @@ The development environment has three layers:
 ```text
 pyenv-win
     │
-    └── Selects Python version (e.g. Python 3.13)
+    └── Selects Python version (e.g. Python 3.14)
              │
              ▼
         .venv
