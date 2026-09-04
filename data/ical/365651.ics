@@ -8,371 +8,369 @@ BEGIN:VEVENT
 SUMMARY:K.ST.DRIESLINTER - FC AVERBODE TESTELT OKSELAAR
 DTSTART;TZID=Europe/Brussels:20260723T193000
 DTEND;TZID=Europe/Brussels:20260723T211500
-DTSTAMP:20260903T191358Z
+DTSTAMP:20260904T131805Z
 UID:7577718@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Gras\nType: friendly\nEindstand: 2 - 5
+DESCRIPTION:Terrein: Gras\nType: Vriendschappelijk\nEindstand: 2 - 5
 LOCATION:Molenweg\, 3350 Linter
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KVK.Tienen - FC Averbode Testelt Okselaar A
 DTSTART;TZID=Europe/Brussels:20260726T150000
 DTEND;TZID=Europe/Brussels:20260726T164500
-DTSTAMP:20260903T191358Z
+DTSTAMP:20260904T131805Z
 UID:7497852@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Kunstgras\nType: cup_as_championship\nEindstand: 3 - 
- 2
+DESCRIPTION:Terrein: Kunstgras\nType: Vriendschappelijk\nEindstand: 3 - 2
 LOCATION:Bergevest 12\, 3300 Tienen
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Averbode Testelt Okselaar A - Thes Sport Tessenderlo A
 DTSTART;TZID=Europe/Brussels:20260729T193000
 DTEND;TZID=Europe/Brussels:20260729T211500
-DTSTAMP:20260903T191358Z
+DTSTAMP:20260904T131805Z
 UID:7497864@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Gras\nType: cup_as_championship\nEindstand: 3 - 1
+DESCRIPTION:Terrein: Gras\nType: Vriendschappelijk\nEindstand: 3 - 1
 LOCATION:Vorststraat Z/N\, 3271 Averbode
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:K. ZANDHOVEN S.K. A - F.C. AVERBODE TESTELT OKSELAAR A
 DTSTART;TZID=Europe/Brussels:20260802T160000
 DTEND;TZID=Europe/Brussels:20260802T174500
-DTSTAMP:20260903T191358Z
+DTSTAMP:20260904T131805Z
 UID:7505540@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Kunstgras\nType: cup\nEindstand: 2 - 3
+DESCRIPTION:Terrein: Kunstgras\nType: Beker\nEindstand: 2 - 3
 LOCATION:Voetbalstraat z/n\, 2240 Zandhoven
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sp.Rotselaar A - FC Averbode Testelt Okselaar A
 DTSTART;TZID=Europe/Brussels:20260805T200000
 DTEND;TZID=Europe/Brussels:20260805T214500
-DTSTAMP:20260903T191358Z
+DTSTAMP:20260904T131805Z
 UID:7497874@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Kunstgras\nType: cup_as_championship\nEindstand: 2 - 
- 1
+DESCRIPTION:Terrein: Kunstgras\nType: Vriendschappelijk\nEindstand: 2 - 1
 LOCATION:Torenstraat 115\, 3110 Rotselaar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KFC VOORDE-APPELTERRE A - F.C. AVERBODE TESTELT OKSELAAR A
 DTSTART;TZID=Europe/Brussels:20260809T160000
 DTEND;TZID=Europe/Brussels:20260809T174500
-DTSTAMP:20260903T191358Z
+DTSTAMP:20260904T131805Z
 UID:7505635@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Kunstgras\nType: cup\nEindstand: 4 - 2
+DESCRIPTION:Terrein: Kunstgras\nType: Beker\nEindstand: 4 - 2
 LOCATION:Karmelietenstraat\, 9400 Voorde
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SK.NOSSEGEM - FC AVERBODE TESTELT OKSELAAR
 DTSTART;TZID=Europe/Brussels:20260809T163000
 DTEND;TZID=Europe/Brussels:20260809T181500
-DTSTAMP:20260903T191358Z
+DTSTAMP:20260904T131805Z
 UID:7643633@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Kunstgras\nType: friendly\nEindstand: 
+DESCRIPTION:Terrein: Kunstgras\nType: Vriendschappelijk\nEindstand: 
 LOCATION:Melsbroekstraat\, 1930 Nossegem
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Averbode Testelt Okselaar A - KAC.Betekom A
 DTSTART;TZID=Europe/Brussels:20260812T190000
 DTEND;TZID=Europe/Brussels:20260812T204500
-DTSTAMP:20260903T191358Z
+DTSTAMP:20260904T131805Z
 UID:7497884@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Gras\nType: cup_as_championship\nEindstand: 2 - 2
+DESCRIPTION:Terrein: Gras\nType: Vriendschappelijk\nEindstand: 2 - 2
 LOCATION:Vorststraat Z/N\, 3271 Averbode
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC AVERBODE TESTELT OKSELAAR - HO.BIERBEEK
 DTSTART;TZID=Europe/Brussels:20260819T190000
 DTEND;TZID=Europe/Brussels:20260819T204500
-DTSTAMP:20260903T191358Z
+DTSTAMP:20260904T131805Z
 UID:7726484@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Gras\nType: friendly\nEindstand: 7 - 1
+DESCRIPTION:Terrein: Gras\nType: Vriendschappelijk\nEindstand: 7 - 1
 LOCATION:Vorststraat Z/N\, 3271 Averbode
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Averbode Testelt Okselaar A - VK.Linden A
 DTSTART;TZID=Europe/Brussels:20260826T190000
 DTEND;TZID=Europe/Brussels:20260826T204500
-DTSTAMP:20260903T191358Z
+DTSTAMP:20260904T131805Z
 UID:7515089@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 1 - 2
+DESCRIPTION:Terrein: Gras\nType: Competitie\nEindstand: 1 - 2
 LOCATION:Vorststraat Z/N\, 3271 Averbode
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:K. Berg en Dal VV - FC Averbode Testelt Okselaar A
 DTSTART;TZID=Europe/Brussels:20260830T143000
 DTEND;TZID=Europe/Brussels:20260830T161500
-DTSTAMP:20260903T191358Z
+DTSTAMP:20260904T131805Z
 UID:7515103@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 1 - 2
+DESCRIPTION:Terrein: Gras\nType: Competitie\nEindstand: 1 - 2
 LOCATION:Sportlaan\, 2450 Meerhout
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WS Schoonbeek-Bilzen A - FC Averbode Testelt Okselaar A
 DTSTART;TZID=Europe/Brussels:20260902T200000
 DTEND;TZID=Europe/Brussels:20260902T214500
-DTSTAMP:20260903T191358Z
+DTSTAMP:20260904T131805Z
 UID:7515109@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Kunstgras\nType: championship\nEindstand: 5 - 2
+DESCRIPTION:Terrein: Kunstgras\nType: Competitie\nEindstand: 5 - 2
 LOCATION:Grasveldstraat 9\, 3740 Bilzen
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Averbode Testelt Okselaar A - FC Wezel Sport A
 DTSTART;TZID=Europe/Brussels:20260906T150000
 DTEND;TZID=Europe/Brussels:20260906T164500
-DTSTAMP:20260903T191358Z
+DTSTAMP:20260904T131805Z
 UID:7515121@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+DESCRIPTION:Terrein: Gras\nType: Competitie\nEindstand: 
 LOCATION:Vorststraat Z/N\, 3271 Averbode
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Averbode Testelt Okselaar A - KVC Lille United A
 DTSTART;TZID=Europe/Brussels:20260920T150000
 DTEND;TZID=Europe/Brussels:20260920T164500
-DTSTAMP:20260903T191358Z
+DTSTAMP:20260904T131805Z
 UID:7515139@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+DESCRIPTION:Terrein: Gras\nType: Competitie\nEindstand: 
 LOCATION:Vorststraat Z/N\, 3271 Averbode
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KVV Zepperen-Brustem A - FC Averbode Testelt Okselaar A
 DTSTART;TZID=Europe/Brussels:20260927T150000
 DTEND;TZID=Europe/Brussels:20260927T164500
-DTSTAMP:20260903T191358Z
+DTSTAMP:20260904T131805Z
 UID:7515149@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Kunstgras\nType: championship\nEindstand: 
+DESCRIPTION:Terrein: Kunstgras\nType: Competitie\nEindstand: 
 LOCATION:Sportpleinstraat z/n\, 3800 Zepperen
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Averbode Testelt Okselaar A - OHR.Huldenberg A
 DTSTART;TZID=Europe/Brussels:20261004T150000
 DTEND;TZID=Europe/Brussels:20261004T164500
-DTSTAMP:20260903T191358Z
+DTSTAMP:20260904T131805Z
 UID:7515158@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+DESCRIPTION:Terrein: Gras\nType: Competitie\nEindstand: 
 LOCATION:Vorststraat Z/N\, 3271 Averbode
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Averbode Testelt Okselaar A - Esperanza Pelt A
 DTSTART;TZID=Europe/Brussels:20261011T150000
 DTEND;TZID=Europe/Brussels:20261011T164500
-DTSTAMP:20260903T191358Z
+DTSTAMP:20260904T131805Z
 UID:7515165@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+DESCRIPTION:Terrein: Gras\nType: Competitie\nEindstand: 
 LOCATION:Vorststraat Z/N\, 3271 Averbode
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Achel VV A - FC Averbode Testelt Okselaar A
 DTSTART;TZID=Europe/Brussels:20261017T193000
 DTEND;TZID=Europe/Brussels:20261017T211500
-DTSTAMP:20260903T191358Z
+DTSTAMP:20260904T131805Z
 UID:7515170@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+DESCRIPTION:Terrein: Gras\nType: Competitie\nEindstand: 
 LOCATION:Siggertstraat 10\, 3930 Hamont-Achel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Averbode Testelt Okselaar A - KFC Turnhout
 DTSTART;TZID=Europe/Brussels:20261025T143000
 DTEND;TZID=Europe/Brussels:20261025T161500
-DTSTAMP:20260903T191358Z
+DTSTAMP:20260904T131805Z
 UID:7515182@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+DESCRIPTION:Terrein: Gras\nType: Competitie\nEindstand: 
 LOCATION:Vorststraat Z/N\, 3271 Averbode
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Lenaarts A - FC Averbode Testelt Okselaar A
 DTSTART;TZID=Europe/Brussels:20261031T193000
 DTEND;TZID=Europe/Brussels:20261031T211500
-DTSTAMP:20260903T191358Z
+DTSTAMP:20260904T131805Z
 UID:7515188@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+DESCRIPTION:Terrein: Gras\nType: Competitie\nEindstand: 
 LOCATION:Houtstraat 4a\, 2960 St-Lenaerts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Averbode Testelt Okselaar A - ASV Geel
 DTSTART;TZID=Europe/Brussels:20261108T143000
 DTEND;TZID=Europe/Brussels:20261108T161500
-DTSTAMP:20260903T191358Z
+DTSTAMP:20260904T131805Z
 UID:7515201@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+DESCRIPTION:Terrein: Gras\nType: Competitie\nEindstand: 
 LOCATION:Vorststraat Z/N\, 3271 Averbode
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lommel SK B - FC Averbode Testelt Okselaar A
 DTSTART;TZID=Europe/Brussels:20261115T143000
 DTEND;TZID=Europe/Brussels:20261115T161500
-DTSTAMP:20260903T191358Z
+DTSTAMP:20260904T131805Z
 UID:7515212@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+DESCRIPTION:Terrein: Gras\nType: Competitie\nEindstand: 
 LOCATION:Speelpleinstraat 80\, 3920 Lommel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Averbode Testelt Okselaar A - K. Nieuwmoer FC A
 DTSTART;TZID=Europe/Brussels:20261122T143000
 DTEND;TZID=Europe/Brussels:20261122T161500
-DTSTAMP:20260903T191358Z
+DTSTAMP:20260904T131805Z
 UID:7515219@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+DESCRIPTION:Terrein: Gras\nType: Competitie\nEindstand: 
 LOCATION:Vorststraat Z/N\, 3271 Averbode
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KAC.Betekom A - FC Averbode Testelt Okselaar A
 DTSTART;TZID=Europe/Brussels:20261128T200000
 DTEND;TZID=Europe/Brussels:20261128T214500
-DTSTAMP:20260903T191358Z
+DTSTAMP:20260904T131805Z
 UID:7515224@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Kunstgras\nType: championship\nEindstand: 
+DESCRIPTION:Terrein: Kunstgras\nType: Competitie\nEindstand: 
 LOCATION:Grote Baan 118\, 3130 Betekom
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Averbode Testelt Okselaar A - GS Bree-Beek A
 DTSTART;TZID=Europe/Brussels:20261206T143000
 DTEND;TZID=Europe/Brussels:20261206T161500
-DTSTAMP:20260903T191358Z
+DTSTAMP:20260904T131805Z
 UID:7515238@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+DESCRIPTION:Terrein: Gras\nType: Competitie\nEindstand: 
 LOCATION:Vorststraat Z/N\, 3271 Averbode
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VK.Linden A - FC Averbode Testelt Okselaar A
 DTSTART;TZID=Europe/Brussels:20261213T150000
 DTEND;TZID=Europe/Brussels:20261213T164500
-DTSTAMP:20260903T191358Z
+DTSTAMP:20260904T131805Z
 UID:7515249@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Kunstgras\nType: championship\nEindstand: 
+DESCRIPTION:Terrein: Kunstgras\nType: Competitie\nEindstand: 
 LOCATION:Kerkdreef 8\, 3210 Linden
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KVC Lille United A - FC Averbode Testelt Okselaar A
 DTSTART;TZID=Europe/Brussels:20270109T200000
 DTEND;TZID=Europe/Brussels:20270109T214500
-DTSTAMP:20260903T191358Z
+DTSTAMP:20260904T131805Z
 UID:7515263@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+DESCRIPTION:Terrein: Gras\nType: Competitie\nEindstand: 
 LOCATION:Heggelaan\, 2275 Poederlee
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Averbode Testelt Okselaar A - WS Schoonbeek-Bilzen A
 DTSTART;TZID=Europe/Brussels:20270117T143000
 DTEND;TZID=Europe/Brussels:20270117T161500
-DTSTAMP:20260903T191358Z
+DTSTAMP:20260904T131805Z
 UID:7515274@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+DESCRIPTION:Terrein: Gras\nType: Competitie\nEindstand: 
 LOCATION:Vorststraat Z/N\, 3271 Averbode
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Wezel Sport A - FC Averbode Testelt Okselaar A
 DTSTART;TZID=Europe/Brussels:20270123T193000
 DTEND;TZID=Europe/Brussels:20270123T211500
-DTSTAMP:20260903T191358Z
+DTSTAMP:20260904T131805Z
 UID:7515278@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+DESCRIPTION:Terrein: Gras\nType: Competitie\nEindstand: 
 LOCATION:St Carolusstraat 19\, 2400 Mol
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Averbode Testelt Okselaar A - KVV Zepperen-Brustem A
 DTSTART;TZID=Europe/Brussels:20270131T143000
 DTEND;TZID=Europe/Brussels:20270131T161500
-DTSTAMP:20260903T191358Z
+DTSTAMP:20260904T131805Z
 UID:7515291@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+DESCRIPTION:Terrein: Gras\nType: Competitie\nEindstand: 
 LOCATION:Vorststraat Z/N\, 3271 Averbode
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OHR.Huldenberg A - FC Averbode Testelt Okselaar A
 DTSTART;TZID=Europe/Brussels:20270206T200000
 DTEND;TZID=Europe/Brussels:20270206T214500
-DTSTAMP:20260903T191358Z
+DTSTAMP:20260904T131805Z
 UID:7515298@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Kunstgras\nType: championship\nEindstand: 
+DESCRIPTION:Terrein: Kunstgras\nType: Competitie\nEindstand: 
 LOCATION:Gilisstraat\, 3040 Huldenberg
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Averbode Testelt Okselaar A - K. Berg en Dal VV
 DTSTART;TZID=Europe/Brussels:20270214T150000
 DTEND;TZID=Europe/Brussels:20270214T164500
-DTSTAMP:20260903T191358Z
+DTSTAMP:20260904T131805Z
 UID:7515309@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+DESCRIPTION:Terrein: Gras\nType: Competitie\nEindstand: 
 LOCATION:Vorststraat Z/N\, 3271 Averbode
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:K. Nieuwmoer FC A - FC Averbode Testelt Okselaar A
 DTSTART;TZID=Europe/Brussels:20270220T200000
 DTEND;TZID=Europe/Brussels:20270220T214500
-DTSTAMP:20260903T191358Z
+DTSTAMP:20260904T131805Z
 UID:7515318@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+DESCRIPTION:Terrein: Gras\nType: Competitie\nEindstand: 
 LOCATION:Essensteenweg 69\, 2920 Kalmthout
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Averbode Testelt Okselaar A - KAC.Betekom A
 DTSTART;TZID=Europe/Brussels:20270228T150000
 DTEND;TZID=Europe/Brussels:20270228T164500
-DTSTAMP:20260903T191358Z
+DTSTAMP:20260904T131805Z
 UID:7515327@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+DESCRIPTION:Terrein: Gras\nType: Competitie\nEindstand: 
 LOCATION:Vorststraat Z/N\, 3271 Averbode
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KFC Turnhout - FC Averbode Testelt Okselaar A
 DTSTART;TZID=Europe/Brussels:20270306T193000
 DTEND;TZID=Europe/Brussels:20270306T211500
-DTSTAMP:20260903T191358Z
+DTSTAMP:20260904T131805Z
 UID:7515333@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+DESCRIPTION:Terrein: Gras\nType: Competitie\nEindstand: 
 LOCATION:Parklaan 50\, 2300 Turnhout
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ASV Geel - FC Averbode Testelt Okselaar A
 DTSTART;TZID=Europe/Brussels:20270313T200000
 DTEND;TZID=Europe/Brussels:20270313T214500
-DTSTAMP:20260903T191358Z
+DTSTAMP:20260904T131805Z
 UID:7515343@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+DESCRIPTION:Terrein: Gras\nType: Competitie\nEindstand: 
 LOCATION:Rauwelkoven\, 43\, 2440 Geel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Averbode Testelt Okselaar A - Achel VV A
 DTSTART;TZID=Europe/Brussels:20270321T150000
 DTEND;TZID=Europe/Brussels:20270321T164500
-DTSTAMP:20260903T191358Z
+DTSTAMP:20260904T131805Z
 UID:7515357@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+DESCRIPTION:Terrein: Gras\nType: Competitie\nEindstand: 
 LOCATION:Vorststraat Z/N\, 3271 Averbode
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Esperanza Pelt A - FC Averbode Testelt Okselaar A
 DTSTART;TZID=Europe/Brussels:20270403T200000
 DTEND;TZID=Europe/Brussels:20270403T214500
-DTSTAMP:20260903T191358Z
+DTSTAMP:20260904T131805Z
 UID:7515363@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+DESCRIPTION:Terrein: Gras\nType: Competitie\nEindstand: 
 LOCATION:Sparrenlaan 30\, 3910 Neerpelt
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Averbode Testelt Okselaar A - St. Lenaarts A
 DTSTART;TZID=Europe/Brussels:20270411T150000
 DTEND;TZID=Europe/Brussels:20270411T164500
-DTSTAMP:20260903T191358Z
+DTSTAMP:20260904T131805Z
 UID:7515374@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+DESCRIPTION:Terrein: Gras\nType: Competitie\nEindstand: 
 LOCATION:Vorststraat Z/N\, 3271 Averbode
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GS Bree-Beek A - FC Averbode Testelt Okselaar A
 DTSTART;TZID=Europe/Brussels:20270417T200000
 DTEND;TZID=Europe/Brussels:20270417T214500
-DTSTAMP:20260903T191358Z
+DTSTAMP:20260904T131805Z
 UID:7515377@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+DESCRIPTION:Terrein: Gras\nType: Competitie\nEindstand: 
 LOCATION:Geussensstraat z/n\, 3960 Bree
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Averbode Testelt Okselaar A - Lommel SK B
 DTSTART;TZID=Europe/Brussels:20270425T150000
 DTEND;TZID=Europe/Brussels:20270425T164500
-DTSTAMP:20260903T191358Z
+DTSTAMP:20260904T131805Z
 UID:7515385@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Gras\nType: championship\nEindstand: 
+DESCRIPTION:Terrein: Gras\nType: Competitie\nEindstand: 
 LOCATION:Vorststraat Z/N\, 3271 Averbode
 END:VEVENT
 END:VCALENDAR
