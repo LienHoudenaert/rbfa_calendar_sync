@@ -76,12 +76,13 @@ def refresh_team_calendar(team_id):
 
         outcome = match_detail.get('outcome') or {}
         match_outcome = ""
-        if outcome.get('isFinished', False):
-            home_goals = match_detail.get('homeTeamGoals', "")
-            away_goals = match_detail.get('awayTeamGoals', "")
+        game_finished = outcome.get('isFinished', False)
+        if game_finished:
+            home_goals = outcome.get('homeTeamGoals', "")
+            away_goals = outcome.get('awayTeamGoals', "")
             if home_goals and away_goals:
                 match_outcome = (
-                    f"{home_goals} - "
+                    f"{home_goals}-"
                     f"{away_goals}"
                 )
 
