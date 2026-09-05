@@ -1,5 +1,6 @@
 from services.storage import load_saved_teams
 from services.calendar import refresh_team_calendar
+from services.git_backup import backup_synced_calendars
 
 
 def main():
@@ -25,3 +26,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+backup_synced_calendars()
