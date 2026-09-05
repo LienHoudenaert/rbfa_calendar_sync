@@ -1,6 +1,12 @@
 {
   "teams": [
     {
+      "id": "362164",
+      "name": "Eerste Elftal A",
+      "club": "KFC DE KEMPEN TIELEN-LICHTAART",
+      "logo": "https://belgianfootball.s3.eu-central-1.amazonaws.com/s3fs-public/rbfa/img/logos/clubs/04469.jpg"
+    },
+    {
       "id": "365677",
       "name": "Eerste Elftal (Vrouwen)",
       "club": "K. BLAUWVOET OEVEL",
