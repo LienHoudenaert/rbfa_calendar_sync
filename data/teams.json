@@ -17,6 +17,78 @@
       "name": "Eerste Elftal (Vrouwen)",
       "club": "K. BLAUWVOET OEVEL",
       "logo": "https://belgianfootball.s3.eu-central-1.amazonaws.com/s3fs-public/rbfa/img/logos/clubs/02223.jpg"
+    },
+    {
+      "id": "367656",
+      "name": "Recrea Veteranen",
+      "club": "V.V.S ROTSELAAR",
+      "logo": "https://belgianfootball.s3.eu-central-1.amazonaws.com/s3fs-public/rbfa/img/logos/clubs/42154.jpg"
+    },
+    {
+      "id": "371848",
+      "name": "U11 WI",
+      "club": "REAL ELMOS HERENTALS",
+      "logo": "https://belgianfootball.s3.eu-central-1.amazonaws.com/s3fs-public/rbfa/img/logos/clubs/26041.jpg"
+    },
+    {
+      "id": "371849",
+      "name": "U17",
+      "club": "REAL ELMOS HERENTALS",
+      "logo": "https://belgianfootball.s3.eu-central-1.amazonaws.com/s3fs-public/rbfa/img/logos/clubs/26041.jpg"
+    },
+    {
+      "id": "371850",
+      "name": "U15",
+      "club": "REAL ELMOS HERENTALS",
+      "logo": "https://belgianfootball.s3.eu-central-1.amazonaws.com/s3fs-public/rbfa/img/logos/clubs/26041.jpg"
+    },
+    {
+      "id": "371852",
+      "name": "U13 GR",
+      "club": "REAL ELMOS HERENTALS",
+      "logo": "https://belgianfootball.s3.eu-central-1.amazonaws.com/s3fs-public/rbfa/img/logos/clubs/26041.jpg"
+    },
+    {
+      "id": "374440",
+      "name": "Eerste Elftal",
+      "club": "DE TEMPELIERS",
+      "logo": "https://belgianfootball.s3.eu-central-1.amazonaws.com/s3fs-public/rbfa/img/logos/clubs/no_logo.jpg"
+    },
+    {
+      "id": "376346",
+      "name": "Eerste Elftal",
+      "club": "MVC DE UKKERS",
+      "logo": "https://belgianfootball.s3.eu-central-1.amazonaws.com/s3fs-public/rbfa/img/logos/clubs/no_logo.jpg"
+    },
+    {
+      "id": "378040",
+      "name": "U13 RO",
+      "club": "REAL ELMOS HERENTALS",
+      "logo": "https://belgianfootball.s3.eu-central-1.amazonaws.com/s3fs-public/rbfa/img/logos/clubs/26041.jpg"
+    },
+    {
+      "id": "378041",
+      "name": "U13 BL",
+      "club": "REAL ELMOS HERENTALS",
+      "logo": "https://belgianfootball.s3.eu-central-1.amazonaws.com/s3fs-public/rbfa/img/logos/clubs/26041.jpg"
+    },
+    {
+      "id": "378042",
+      "name": "U13 WI",
+      "club": "REAL ELMOS HERENTALS",
+      "logo": "https://belgianfootball.s3.eu-central-1.amazonaws.com/s3fs-public/rbfa/img/logos/clubs/26041.jpg"
+    },
+    {
+      "id": "380008",
+      "name": "U13",
+      "club": "K.F.C. GROBBENDONK",
+      "logo": "https://belgianfootball.s3.eu-central-1.amazonaws.com/s3fs-public/rbfa/img/logos/clubs/00380.jpg"
+    },
+    {
+      "id": "381565",
+      "name": "U11 BL",
+      "club": "REAL ELMOS HERENTALS",
+      "logo": "https://belgianfootball.s3.eu-central-1.amazonaws.com/s3fs-public/rbfa/img/logos/clubs/26041.jpg"
     }
   ]
 }

@@ -1,0 +1,131 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//RBFA Calendar Sync//NL
+X-WR-TIMEZONE:Europe/Brussels
+BEGIN:VEVENT
+SUMMARY:KFC Grobbendonk 1 - SK Rita Berlaar B 2-1
+DTSTART;TZID=Europe/Brussels:20260905T093000
+DTEND;TZID=Europe/Brussels:20260905T111500
+DTSTAMP:20260916T144932Z
+UID:7661990@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Vaartkom 2\, 2280 Grobbendonk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Koninklijke Lyra-Lierse D 1 - KFC Grobbendonk 1
+DTSTART;TZID=Europe/Brussels:20260912T123000
+DTEND;TZID=Europe/Brussels:20260912T141500
+DTSTAMP:20260916T144932Z
+UID:7661994@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Marieke Vervoortlaan\, 2500 Lier
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KFC Grobbendonk 1 - KVC Lille United B 2-1
+DTSTART;TZID=Europe/Brussels:20260919T093000
+DTEND;TZID=Europe/Brussels:20260919T111500
+DTSTAMP:20260916T144932Z
+UID:7661998@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Vaartkom 2\, 2280 Grobbendonk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:K. Zandhoven SK 1 - KFC Grobbendonk 1
+DTSTART;TZID=Europe/Brussels:20260926T133000
+DTEND;TZID=Europe/Brussels:20260926T151500
+DTSTAMP:20260916T144932Z
+UID:7662004@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Voetbalstraat z/n\, 2240 Zandhoven
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KFC Grobbendonk 1 - Kessel United 1
+DTSTART;TZID=Europe/Brussels:20261003T093000
+DTEND;TZID=Europe/Brussels:20261003T111500
+DTSTAMP:20260916T144932Z
+UID:7662006@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Vaartkom 2\, 2280 Grobbendonk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KVV OG Vorselaar C 2-1 - KFC Grobbendonk 1
+DTSTART;TZID=Europe/Brussels:20261010T093000
+DTEND;TZID=Europe/Brussels:20261010T111500
+DTSTAMP:20260916T144932Z
+UID:7662010@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Riemenstraat 89E\, 2290 Vorselaar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KFC Grobbendonk 1 - KFC Exc. Bouwel 2-1
+DTSTART;TZID=Europe/Brussels:20261017T093000
+DTEND;TZID=Europe/Brussels:20261017T111500
+DTSTAMP:20260916T144932Z
+UID:7662014@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Vaartkom 2\, 2280 Grobbendonk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SK Rita Berlaar B 2-1 - KFC Grobbendonk 1
+DTSTART;TZID=Europe/Brussels:20261025T090000
+DTEND;TZID=Europe/Brussels:20261025T104500
+DTSTAMP:20260916T144932Z
+UID:7662020@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Welvaartstraat 101\, 2590 Berlaar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KFC Grobbendonk 1 - Koninklijke Lyra-Lierse D 1
+DTSTART;TZID=Europe/Brussels:20261031T093000
+DTEND;TZID=Europe/Brussels:20261031T111500
+DTSTAMP:20260916T144932Z
+UID:7662022@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Vaartkom 2\, 2280 Grobbendonk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KVC Lille United B 2-1 - KFC Grobbendonk 1
+DTSTART;TZID=Europe/Brussels:20261108T100000
+DTEND;TZID=Europe/Brussels:20261108T114500
+DTSTAMP:20260916T144932Z
+UID:7662029@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Heggelaan\, 2275 Poederlee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KFC Grobbendonk 1 - K. Zandhoven SK 1
+DTSTART;TZID=Europe/Brussels:20261114T093000
+DTEND;TZID=Europe/Brussels:20261114T111500
+DTSTAMP:20260916T144932Z
+UID:7662030@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Vaartkom 2\, 2280 Grobbendonk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kessel United 1 - KFC Grobbendonk 1
+DTSTART;TZID=Europe/Brussels:20261121T110000
+DTEND;TZID=Europe/Brussels:20261121T124500
+DTSTAMP:20260916T144932Z
+UID:7662035@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Pastoor Schellekensplein z/n\, 2560 Kessel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KFC Grobbendonk 1 - KVV OG Vorselaar C 2-1
+DTSTART;TZID=Europe/Brussels:20261128T093000
+DTEND;TZID=Europe/Brussels:20261128T111500
+DTSTAMP:20260916T144932Z
+UID:7662038@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Vaartkom 2\, 2280 Grobbendonk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KFC Exc. Bouwel 2-1 - KFC Grobbendonk 1
+DTSTART;TZID=Europe/Brussels:20261205T100000
+DTEND;TZID=Europe/Brussels:20261205T114500
+DTSTAMP:20260916T144932Z
+UID:7662043@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Molenstraat\, 2288 Bouwel
+END:VEVENT
+END:VCALENDAR

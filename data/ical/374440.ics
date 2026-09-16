@@ -1,0 +1,239 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//RBFA Calendar Sync//NL
+X-WR-TIMEZONE:Europe/Brussels
+BEGIN:VEVENT
+SUMMARY:De Tempeliers - Sweco FC
+DTSTART;TZID=Europe/Brussels:20260903T210000
+DTEND;TZID=Europe/Brussels:20260903T224500
+DTSTAMP:20260916T144917Z
+UID:7633850@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 5-6
+LOCATION:Tolhuislaan 77\, 9000 Gent
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sturm Und Drank - De Tempeliers
+DTSTART;TZID=Europe/Brussels:20260910T220000
+DTEND;TZID=Europe/Brussels:20260910T234500
+DTSTAMP:20260916T144917Z
+UID:7633857@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 5-3
+LOCATION:Ebergiste De Deynestraat 1\, 9000 Gent
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:De Tempeliers - OHNE FANS
+DTSTART;TZID=Europe/Brussels:20260917T220000
+DTEND;TZID=Europe/Brussels:20260917T234500
+DTSTAMP:20260916T144917Z
+UID:7633864@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Ebergiste De Deynestraat 1\, 9000 Gent
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:De Tempeliers - Surfing Elephant
+DTSTART;TZID=Europe/Brussels:20260925T190000
+DTEND;TZID=Europe/Brussels:20260925T204500
+DTSTAMP:20260916T144917Z
+UID:7633870@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Industrieweg 228\, 9030 Mariakerke
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:De Tempeliers - MVC Robby
+DTSTART;TZID=Europe/Brussels:20261001T210000
+DTEND;TZID=Europe/Brussels:20261001T224500
+DTSTAMP:20260916T144917Z
+UID:7633876@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Ebergiste De Deynestraat 1\, 9000 Gent
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nippoli FC - De Tempeliers
+DTSTART;TZID=Europe/Brussels:20261006T210000
+DTEND;TZID=Europe/Brussels:20261006T224500
+DTSTAMP:20260916T144917Z
+UID:7633878@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Sint-Denijslaan 251\, 9000 Gent
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:De Tempeliers - RSC Prammen
+DTSTART;TZID=Europe/Brussels:20261015T190000
+DTEND;TZID=Europe/Brussels:20261015T204500
+DTSTAMP:20260916T144917Z
+UID:7633890@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Ebergiste De Deynestraat 1\, 9000 Gent
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MVC Gentill - De Tempeliers
+DTSTART;TZID=Europe/Brussels:20261022T220000
+DTEND;TZID=Europe/Brussels:20261022T234500
+DTSTAMP:20260916T144917Z
+UID:7633895@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Koedreef 1\, 9070 Destelbergen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DIDITS - De Tempeliers
+DTSTART;TZID=Europe/Brussels:20261103T210000
+DTEND;TZID=Europe/Brussels:20261103T224500
+DTSTAMP:20260916T144917Z
+UID:7633903@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Ebergiste De Deynestraat 1\, 9000 Gent
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ATLETICO APERITIVO - De Tempeliers
+DTSTART;TZID=Europe/Brussels:20261110T210000
+DTEND;TZID=Europe/Brussels:20261110T224500
+DTSTAMP:20260916T144917Z
+UID:7633908@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Industrieweg 228\, 9030 Mariakerke
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:De Tempeliers - Lokomotiv Sportif
+DTSTART;TZID=Europe/Brussels:20261119T200000
+DTEND;TZID=Europe/Brussels:20261119T214500
+DTSTAMP:20260916T144917Z
+UID:7633919@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Ebergiste De Deynestraat 1\, 9000 Gent
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VG Olé Olé - De Tempeliers
+DTSTART;TZID=Europe/Brussels:20261124T210000
+DTEND;TZID=Europe/Brussels:20261124T224500
+DTSTAMP:20260916T144917Z
+UID:7633924@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Ebergiste De Deynestraat 1\, 9000 Gent
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eintracht Drankfurt - De Tempeliers
+DTSTART;TZID=Europe/Brussels:20261203T200000
+DTEND;TZID=Europe/Brussels:20261203T214500
+DTSTAMP:20260916T144917Z
+UID:7633933@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Ebergiste De Deynestraat 1\, 9000 Gent
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:De Tempeliers - Sturm Und Drank
+DTSTART;TZID=Europe/Brussels:20270104T201500
+DTEND;TZID=Europe/Brussels:20270104T220000
+DTSTAMP:20260916T144917Z
+UID:7633939@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Rozebroekslag 50\, 9040 Sint-Amandsberg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sweco FC - De Tempeliers
+DTSTART;TZID=Europe/Brussels:20270114T220000
+DTEND;TZID=Europe/Brussels:20270114T234500
+DTSTAMP:20260916T144917Z
+UID:7633942@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Sint-Denijslaan 251\, 9000 Gent
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:De Tempeliers - Eintracht Drankfurt
+DTSTART;TZID=Europe/Brussels:20270204T220000
+DTEND;TZID=Europe/Brussels:20270204T234500
+DTSTAMP:20260916T144917Z
+UID:7633958@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Sint-Denijslaan 251\, 9000 Gent
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:De Tempeliers - Nippoli FC
+DTSTART;TZID=Europe/Brussels:20270217T200000
+DTEND;TZID=Europe/Brussels:20270217T214500
+DTSTAMP:20260916T144917Z
+UID:7633969@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Ebergiste De Deynestraat 1\, 9000 Gent
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MVC Robby - De Tempeliers
+DTSTART;TZID=Europe/Brussels:20270224T210000
+DTEND;TZID=Europe/Brussels:20270224T224500
+DTSTAMP:20260916T144917Z
+UID:7633973@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Sint-Denijslaan 251\, 9000 Gent
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:De Tempeliers - MVC Gentill
+DTSTART;TZID=Europe/Brussels:20270304T210000
+DTEND;TZID=Europe/Brussels:20270304T224500
+DTSTAMP:20260916T144917Z
+UID:7633981@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Ebergiste De Deynestraat 1\, 9000 Gent
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surfing Elephant - De Tempeliers
+DTSTART;TZID=Europe/Brussels:20270313T140000
+DTEND;TZID=Europe/Brussels:20270313T154500
+DTSTAMP:20260916T144917Z
+UID:7633988@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Sint-Denijslaan 251\, 9000 Gent
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:De Tempeliers - DIDITS
+DTSTART;TZID=Europe/Brussels:20270318T200000
+DTEND;TZID=Europe/Brussels:20270318T214500
+DTSTAMP:20260916T144917Z
+UID:7633994@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Ebergiste De Deynestraat 1\, 9000 Gent
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:De Tempeliers - ATLETICO APERITIVO
+DTSTART;TZID=Europe/Brussels:20270322T220000
+DTEND;TZID=Europe/Brussels:20270322T234500
+DTSTAMP:20260916T144917Z
+UID:7633999@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Botestraat 98/100\, 9032 Wondelgem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lokomotiv Sportif - De Tempeliers
+DTSTART;TZID=Europe/Brussels:20270408T190000
+DTEND;TZID=Europe/Brussels:20270408T204500
+DTSTAMP:20260916T144917Z
+UID:7634010@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Ebergiste De Deynestraat 1\, 9000 Gent
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:De Tempeliers - VG Olé Olé
+DTSTART;TZID=Europe/Brussels:20270416T220000
+DTEND;TZID=Europe/Brussels:20270416T234500
+DTSTAMP:20260916T144917Z
+UID:7634015@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Sint-Denijslaan 251\, 9000 Gent
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OHNE FANS - De Tempeliers
+DTSTART;TZID=Europe/Brussels:20270422T220000
+DTEND;TZID=Europe/Brussels:20270422T234500
+DTSTAMP:20260916T144917Z
+UID:7634020@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Koedreef 1\, 9070 Destelbergen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RSC Prammen - De Tempeliers
+DTSTART;TZID=Europe/Brussels:20270429T190000
+DTEND;TZID=Europe/Brussels:20270429T204500
+DTSTAMP:20260916T144917Z
+UID:7634029@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Ebergiste De Deynestraat 1\, 9000 Gent
+END:VEVENT
+END:VCALENDAR
