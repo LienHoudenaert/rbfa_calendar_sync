@@ -77,10 +77,11 @@ def refresh_team_calendar(team_id):
         outcome = match_detail.get('outcome') or {}
         match_outcome = ""
         game_finished = outcome.get('isFinished', False)
-        if game_finished:
-            home_goals = outcome.get('homeTeamGoals', "")
-            away_goals = outcome.get('awayTeamGoals', "")
-            if home_goals and away_goals:
+        forfait = bool(outcome.get('subscript', None) == 'Forfait')
+        if game_finished or forfait:
+            home_goals = outcome.get('homeTeamGoals', None)
+            away_goals = outcome.get('awayTeamGoals', None)
+            if home_goals != None and away_goals != None:
                 match_outcome = (
                     f"{home_goals}-"
                     f"{away_goals}"
