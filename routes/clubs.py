@@ -9,8 +9,11 @@ clubs_bp = Blueprint('clubs', __name__)
 @clubs_bp.route('/get_clubs', methods=['POST'])
 def get_club():
     club_name = request.form['club_name']
-
     response = get_clubs_from_api(club_name)
+
+    if response is None:
+        return render_template("error.html"), 503
+
     results = response['data']['search']['results']
 
     return render_template(

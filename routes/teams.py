@@ -13,6 +13,10 @@ def get_teams():
     club_logo = request.form['club_logo']
 
     response = get_teams_from_api(club_id)
+
+    if response is None:
+        return render_template("error.html"), 503
+
     results = response['data']['clubTeams']
 
     return render_template(

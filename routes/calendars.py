@@ -53,6 +53,9 @@ def get_team_calendar():
 
         ical_url = refresh_team_calendar(team_id)
 
+        if ical_url is None:
+            return render_template('error.html'), 503
+
         # Backup newly created calendar to GitHub
         backup_new_calendar(f"{team_id}.ics")
 
