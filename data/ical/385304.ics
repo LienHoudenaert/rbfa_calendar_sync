@@ -1,0 +1,131 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//RBFA Calendar Sync//NL
+X-WR-TIMEZONE:Europe/Brussels
+BEGIN:VEVENT
+SUMMARY:F.C. V.D.P. A 3 - SD Andalucia A 3
+DTSTART;TZID=Europe/Brussels:20260905T120000
+DTEND;TZID=Europe/Brussels:20260905T134500
+DTSTAMP:20261003T051753Z
+UID:7687530@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Meylweg 52\, 2550 Kontich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kon. Olvac A 3 - F.C. V.D.P. A 3
+DTSTART;TZID=Europe/Brussels:20260912T090000
+DTEND;TZID=Europe/Brussels:20260912T104500
+DTSTAMP:20261003T051753Z
+UID:7687531@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Doornstraat 65\, 2650 Edegem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:K. Wijnegem VC 3 - F.C. V.D.P. A 3
+DTSTART;TZID=Europe/Brussels:20260926T090000
+DTEND;TZID=Europe/Brussels:20260926T104500
+DTSTAMP:20261003T051753Z
+UID:7687539@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Kasteellei\, 2110 Wijnegem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:K. Hove Sp. A 3-2 - F.C. V.D.P. A 3
+DTSTART;TZID=Europe/Brussels:20261003T113000
+DTEND;TZID=Europe/Brussels:20261003T131500
+DTSTAMP:20261003T051753Z
+UID:7687544@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:L Dumortierstraat\, 2540 Hove
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:F.C. V.D.P. A 3 - KVC Wilrijk A 3
+DTSTART;TZID=Europe/Brussels:20261010T120000
+DTEND;TZID=Europe/Brussels:20261010T134500
+DTSTAMP:20261003T051753Z
+UID:7687550@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Meylweg 52\, 2550 Kontich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maluka Football Antwerp 3 - F.C. V.D.P. A 3
+DTSTART;TZID=Europe/Brussels:20261018T090000
+DTEND;TZID=Europe/Brussels:20261018T104500
+DTSTAMP:20261003T051753Z
+UID:7687554@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Ruggeveldlaan 488\, 2100 Deurne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SD Andalucia A 3 - F.C. V.D.P. A 3
+DTSTART;TZID=Europe/Brussels:20261024T104500
+DTEND;TZID=Europe/Brussels:20261024T123000
+DTSTAMP:20261003T051753Z
+UID:7687556@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Vogelzanglaan 6\, 2020 Antwerpen 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:F.C. V.D.P. A 3 - Kon. Olvac A 3
+DTSTART;TZID=Europe/Brussels:20261031T120000
+DTEND;TZID=Europe/Brussels:20261031T134500
+DTSTAMP:20261003T051753Z
+UID:7687562@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Meylweg 52\, 2550 Kontich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S.C. O.L.V.E. A 3 - F.C. V.D.P. A 3
+DTSTART;TZID=Europe/Brussels:20261107T114500
+DTEND;TZID=Europe/Brussels:20261107T133000
+DTSTAMP:20261003T051753Z
+UID:7687566@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Kattenbroek 4\, 2650 Edegem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:F.C. V.D.P. A 3 - K. Wijnegem VC 3
+DTSTART;TZID=Europe/Brussels:20261114T120000
+DTEND;TZID=Europe/Brussels:20261114T134500
+DTSTAMP:20261003T051753Z
+UID:7687569@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Meylweg 52\, 2550 Kontich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:F.C. V.D.P. A 3 - K. Hove Sp. A 3-2
+DTSTART;TZID=Europe/Brussels:20261121T120000
+DTEND;TZID=Europe/Brussels:20261121T134500
+DTSTAMP:20261003T051753Z
+UID:7687574@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Meylweg 52\, 2550 Kontich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KVC Wilrijk A 3 - F.C. V.D.P. A 3
+DTSTART;TZID=Europe/Brussels:20261128T093000
+DTEND;TZID=Europe/Brussels:20261128T111500
+DTSTAMP:20261003T051753Z
+UID:7687577@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Moerelei z/n\, 2610 Wilrijk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:F.C. V.D.P. A 3 - Maluka Football Antwerp 3
+DTSTART;TZID=Europe/Brussels:20261205T120000
+DTEND;TZID=Europe/Brussels:20261205T134500
+DTSTAMP:20261003T051753Z
+UID:7687582@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Meylweg 52\, 2550 Kontich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:F.C. V.D.P. A 3 - S.C. O.L.V.E. A 3
+DTSTART;TZID=Europe/Brussels:20261212T120000
+DTEND;TZID=Europe/Brussels:20261212T134500
+DTSTAMP:20261003T051753Z
+UID:7687537@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Meylweg 52\, 2550 Kontich
+END:VEVENT
+END:VCALENDAR

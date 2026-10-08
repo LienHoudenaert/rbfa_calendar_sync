@@ -6,7 +6,7 @@ BEGIN:VEVENT
 SUMMARY:Real Elmos Herentals GR 1 - FT FIT2PLAY HERENTALS 2
 DTSTART;TZID=Europe/Brussels:20260913T170000
 DTEND;TZID=Europe/Brussels:20260913T184500
-DTSTAMP:20260916T144911Z
+DTSTAMP:20261003T050357Z
 UID:7730903@rbfa-calendar-sync.app
 DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
 LOCATION:Asbroek 1 H\, 2230 Herselt
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 SUMMARY:Real Elmos Herentals RO 2 - Real Elmos Herentals GR 1
 DTSTART;TZID=Europe/Brussels:20260920T160000
 DTEND;TZID=Europe/Brussels:20260920T174500
-DTSTAMP:20260916T144911Z
+DTSTAMP:20261003T050357Z
 UID:7730910@rbfa-calendar-sync.app
 DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
 LOCATION:Asbroek 1 H\, 2230 Herselt
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:GS Beobank Hoboken Ster C 2-1 - Real Elmos Herentals GR 1
 DTSTART;TZID=Europe/Brussels:20260927T160000
 DTEND;TZID=Europe/Brussels:20260927T174500
-DTSTAMP:20260916T144911Z
+DTSTAMP:20261003T050357Z
 UID:7730912@rbfa-calendar-sync.app
 DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
 LOCATION:Krijgsbaan 20\, 2660 Hoboken
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:FC 'T Zuid Antwerpen 1 - Real Elmos Herentals GR 1
 DTSTART;TZID=Europe/Brussels:20261011T190000
 DTEND;TZID=Europe/Brussels:20261011T204500
-DTSTAMP:20260916T144911Z
+DTSTAMP:20261003T050357Z
 UID:7730922@rbfa-calendar-sync.app
 DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
 LOCATION:Vogelzanglaan 6\, 2020 Antwerpen 2
@@ -42,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:Real Elmos Herentals GR 1 - Salaam Mechelen 2
 DTSTART;TZID=Europe/Brussels:20261018T160000
 DTEND;TZID=Europe/Brussels:20261018T174500
-DTSTAMP:20260916T144911Z
+DTSTAMP:20261003T050357Z
 UID:7730916@rbfa-calendar-sync.app
 DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
 LOCATION:Asbroek 1 H\, 2230 Herselt
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:Real Elmos Herentals GR 1 - FP Krijnen Turnhout Malle 2
 DTSTART;TZID=Europe/Brussels:20261025T160000
 DTEND;TZID=Europe/Brussels:20261025T174500
-DTSTAMP:20260916T144911Z
+DTSTAMP:20261003T050357Z
 UID:7730923@rbfa-calendar-sync.app
 DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
 LOCATION:Asbroek 1 H\, 2230 Herselt
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:FT FIT2PLAY HERENTALS 2 - Real Elmos Herentals GR 1
 DTSTART;TZID=Europe/Brussels:20261122T161500
 DTEND;TZID=Europe/Brussels:20261122T180000
-DTSTAMP:20260916T144911Z
+DTSTAMP:20261003T050357Z
 UID:7730933@rbfa-calendar-sync.app
 DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
 LOCATION:Ring 9A\, 2200 Herentals
@@ -69,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:Real Elmos Herentals GR 1 - Real Elmos Herentals RO 2
 DTSTART;TZID=Europe/Brussels:20261129T160000
 DTEND;TZID=Europe/Brussels:20261129T174500
-DTSTAMP:20260916T144911Z
+DTSTAMP:20261003T050357Z
 UID:7730935@rbfa-calendar-sync.app
 DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
 LOCATION:Asbroek 1 H\, 2230 Herselt
@@ -78,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:Real Elmos Herentals GR 1 - GS Beobank Hoboken Ster C 2-1
 DTSTART;TZID=Europe/Brussels:20261206T160000
 DTEND;TZID=Europe/Brussels:20261206T174500
-DTSTAMP:20260916T144911Z
+DTSTAMP:20261003T050357Z
 UID:7730940@rbfa-calendar-sync.app
 DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
 LOCATION:Asbroek 1 H\, 2230 Herselt

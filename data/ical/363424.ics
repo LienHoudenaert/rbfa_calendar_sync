@@ -1,0 +1,141 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//RBFA Calendar Sync//NL
+X-WR-TIMEZONE:Europe/Brussels
+BEGIN:VEVENT
+SUMMARY:VSV GENT - FCT MELLE
+DTSTART;TZID=Europe/Brussels:20260828T180000
+DTEND;TZID=Europe/Brussels:20260828T194500
+DTSTAMP:20261003T045507Z
+UID:7643564@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Vriendschappelijk\nEindstand: 4
+ -3
+LOCATION:Boer Janssensstraat 15\, 9050 Gentbrugge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FCT Melle A 3-2 - Vos Reinaert B 2
+DTSTART;TZID=Europe/Brussels:20260905T150000
+DTEND;TZID=Europe/Brussels:20260905T164500
+DTSTAMP:20261003T045507Z
+UID:7711811@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 7-3
+LOCATION:Varingstraat 1/E\, 9090 Melle
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KVV Laarne-Kalken B 2 - FCT Melle A 3-2
+DTSTART;TZID=Europe/Brussels:20260912T143000
+DTEND;TZID=Europe/Brussels:20260912T161500
+DTSTAMP:20261003T045507Z
+UID:7711814@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 0-5
+LOCATION:Leeweg 23\, 9270 Laarne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FCT Melle A 3-2 - KFC Moerbeke 2
+DTSTART;TZID=Europe/Brussels:20260919T150000
+DTEND;TZID=Europe/Brussels:20260919T164500
+DTSTAMP:20261003T045507Z
+UID:7711819@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 7-1
+LOCATION:Varingstraat 1/E\, 9090 Melle
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KFC Eksaarde 2 - FCT Melle A 3-2
+DTSTART;TZID=Europe/Brussels:20260926T093000
+DTEND;TZID=Europe/Brussels:20260926T111500
+DTSTAMP:20261003T045507Z
+UID:7711820@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 5-3
+LOCATION:Kasteeldreef\, 9160 Eksaarde
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FCT Melle A 3-2 - KVV Zelzate B 2
+DTSTART;TZID=Europe/Brussels:20261003T150000
+DTEND;TZID=Europe/Brussels:20261003T164500
+DTSTAMP:20261003T045507Z
+UID:7711827@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Varingstraat 1/E\, 9090 Melle
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FCT Melle A 3-2 - Jago St.-A'berg A 2
+DTSTART;TZID=Europe/Brussels:20261010T150000
+DTEND;TZID=Europe/Brussels:20261010T164500
+DTSTAMP:20261003T045507Z
+UID:7711831@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Varingstraat 1/E\, 9090 Melle
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oostakker - Azalea A 2 - FCT Melle A 3-2
+DTSTART;TZID=Europe/Brussels:20261017T121500
+DTEND;TZID=Europe/Brussels:20261017T140000
+DTSTAMP:20261003T045507Z
+UID:7711833@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Sint-Jozefstraat 13\, 9041 Oostakker
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vos Reinaert B 2 - FCT Melle A 3-2
+DTSTART;TZID=Europe/Brussels:20261024T140000
+DTEND;TZID=Europe/Brussels:20261024T154500
+DTSTAMP:20261003T045507Z
+UID:7711837@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Cadzandstraat 11B\, 9112 Sinaai-Waas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FCT Melle A 3-2 - KVV Laarne-Kalken B 2
+DTSTART;TZID=Europe/Brussels:20261031T150000
+DTEND;TZID=Europe/Brussels:20261031T164500
+DTSTAMP:20261003T045507Z
+UID:7711843@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Varingstraat 1/E\, 9090 Melle
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KFC Moerbeke 2 - FCT Melle A 3-2
+DTSTART;TZID=Europe/Brussels:20261107T134500
+DTEND;TZID=Europe/Brussels:20261107T153000
+DTSTAMP:20261003T045507Z
+UID:7711845@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Moerhofstraat 18\, 9180 Moerbeke-Waas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FCT Melle A 3-2 - KFC Eksaarde 2
+DTSTART;TZID=Europe/Brussels:20261114T150000
+DTEND;TZID=Europe/Brussels:20261114T164500
+DTSTAMP:20261003T045507Z
+UID:7711851@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Varingstraat 1/E\, 9090 Melle
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KVV Zelzate B 2 - FCT Melle A 3-2
+DTSTART;TZID=Europe/Brussels:20261121T120000
+DTEND;TZID=Europe/Brussels:20261121T134500
+DTSTAMP:20261003T045507Z
+UID:7711854@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Broeder Leopoldstraat 1/2\, 9060 Zelzate
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jago St.-A'berg A 2 - FCT Melle A 3-2
+DTSTART;TZID=Europe/Brussels:20261128T150000
+DTEND;TZID=Europe/Brussels:20261128T164500
+DTSTAMP:20261003T045507Z
+UID:7711859@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Alfons Braeckmanlaan 2\, 9040 Sint-Amandsberg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FCT Melle A 3-2 - Oostakker - Azalea A 2
+DTSTART;TZID=Europe/Brussels:20261205T150000
+DTEND;TZID=Europe/Brussels:20261205T164500
+DTSTAMP:20261003T045507Z
+UID:7711863@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Varingstraat 1/E\, 9090 Melle
+END:VEVENT
+END:VCALENDAR

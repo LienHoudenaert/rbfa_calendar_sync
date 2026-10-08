@@ -1,0 +1,140 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//RBFA Calendar Sync//NL
+X-WR-TIMEZONE:Europe/Brussels
+BEGIN:VEVENT
+SUMMARY:Vremde 1 - F.C. V.D.P. 2-1
+DTSTART;TZID=Europe/Brussels:20260905T114500
+DTEND;TZID=Europe/Brussels:20260905T133000
+DTSTAMP:20261003T051443Z
+UID:7658132@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Vremdesesteenweg 224\, 2530 Boechout
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KSK Heist (5/5) 1 - Vremde 1
+DTSTART;TZID=Europe/Brussels:20260912T100000
+DTEND;TZID=Europe/Brussels:20260912T114500
+DTSTAMP:20261003T051443Z
+UID:7658136@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Lostraat\, 50\, 2220 Heist-Op-Den-Berg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vremde 1 - SC City Pirates Antwerpen (5/5) 1
+DTSTART;TZID=Europe/Brussels:20260919T113000
+DTEND;TZID=Europe/Brussels:20260919T131500
+DTSTAMP:20261003T051443Z
+UID:7658138@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Vremdesesteenweg 224\, 2530 Boechout
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KFC Broechem 2-1 - Vremde 1
+DTSTART;TZID=Europe/Brussels:20260926T110000
+DTEND;TZID=Europe/Brussels:20260926T124500
+DTSTAMP:20261003T051443Z
+UID:7658149@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Abelebaan\, 2520 Broechem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vremde 1 - SV Noorse B 1
+DTSTART;TZID=Europe/Brussels:20261003T113000
+DTEND;TZID=Europe/Brussels:20261003T131500
+DTSTAMP:20261003T051443Z
+UID:7658152@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Vremdesesteenweg 224\, 2530 Boechout
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:F.C. V.D.P. 2-1 - Vremde 1
+DTSTART;TZID=Europe/Brussels:20261010T141500
+DTEND;TZID=Europe/Brussels:20261010T160000
+DTSTAMP:20261003T051443Z
+UID:7658156@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Meylweg 52\, 2550 Kontich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vremde 1 - KSK Heist (5/5) 1
+DTSTART;TZID=Europe/Brussels:20261017T113000
+DTEND;TZID=Europe/Brussels:20261017T131500
+DTSTAMP:20261003T051443Z
+UID:7658158@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Vremdesesteenweg 224\, 2530 Boechout
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SC City Pirates Antwerpen (5/5) 1 - Vremde 1
+DTSTART;TZID=Europe/Brussels:20261024T093000
+DTEND;TZID=Europe/Brussels:20261024T111500
+DTSTAMP:20261003T051443Z
+UID:7658160@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Generaal Simondslaan\, 2030 Antwerpen 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vremde 1 - KFC Broechem 2-1
+DTSTART;TZID=Europe/Brussels:20261031T113000
+DTEND;TZID=Europe/Brussels:20261031T131500
+DTSTAMP:20261003T051443Z
+UID:7658164@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Vremdesesteenweg 224\, 2530 Boechout
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SV Noorse B 1 - Vremde 1
+DTSTART;TZID=Europe/Brussels:20261108T090000
+DTEND;TZID=Europe/Brussels:20261108T104500
+DTSTAMP:20261003T051443Z
+UID:7658168@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Frans De Peuterstraat 50\, 2950 Kapellen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vremde 1 - F.C. V.D.P. 2-1
+DTSTART;TZID=Europe/Brussels:20261114T114500
+DTEND;TZID=Europe/Brussels:20261114T133000
+DTSTAMP:20261003T051443Z
+UID:7658169@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Vremdesesteenweg 224\, 2530 Boechout
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KSK Heist (5/5) 1 - Vremde 1
+DTSTART;TZID=Europe/Brussels:20261121T100000
+DTEND;TZID=Europe/Brussels:20261121T114500
+DTSTAMP:20261003T051443Z
+UID:7658173@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Lostraat\, 50\, 2220 Heist-Op-Den-Berg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vremde 1 - SC City Pirates Antwerpen (5/5) 1
+DTSTART;TZID=Europe/Brussels:20261128T113000
+DTEND;TZID=Europe/Brussels:20261128T131500
+DTSTAMP:20261003T051443Z
+UID:7658175@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Vremdesesteenweg 224\, 2530 Boechout
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KFC Broechem 2-1 - Vremde 1
+DTSTART;TZID=Europe/Brussels:20261205T110000
+DTEND;TZID=Europe/Brussels:20261205T124500
+DTSTAMP:20261003T051443Z
+UID:7658179@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Abelebaan\, 2520 Broechem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vremde 1 - SV Noorse B 1
+DTSTART;TZID=Europe/Brussels:20261212T110000
+DTEND;TZID=Europe/Brussels:20261212T124500
+DTSTAMP:20261003T051443Z
+UID:7658182@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Vremdesesteenweg 224\, 2530 Boechout
+END:VEVENT
+END:VCALENDAR

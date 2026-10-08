@@ -1,0 +1,203 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//RBFA Calendar Sync//NL
+X-WR-TIMEZONE:Europe/Brussels
+BEGIN:VEVENT
+SUMMARY:Cantincrode B - FC Patro Hoevenen B
+DTSTART;TZID=Europe/Brussels:20260906T103000
+DTEND;TZID=Europe/Brussels:20260906T121500
+DTSTAMP:20261003T050505Z
+UID:7536971@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 1-3
+LOCATION:Gasthuishoeven  1\, 2640 Mortsel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kon SV Vlug Vooruit - Cantincrode B
+DTSTART;TZID=Europe/Brussels:20260913T103000
+DTEND;TZID=Europe/Brussels:20260913T121500
+DTSTAMP:20261003T050505Z
+UID:7536982@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 0-3
+LOCATION:Fortsteenweg 1\, 2170 Merksem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cantincrode B - FC Drakenhof C
+DTSTART;TZID=Europe/Brussels:20260920T103000
+DTEND;TZID=Europe/Brussels:20260920T121500
+DTSTAMP:20261003T050505Z
+UID:7536986@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 1-6
+LOCATION:Gasthuishoeven  1\, 2640 Mortsel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cantincrode B - FC Ik Dien A
+DTSTART;TZID=Europe/Brussels:20261004T103000
+DTEND;TZID=Europe/Brussels:20261004T121500
+DTSTAMP:20261003T050505Z
+UID:7537001@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Gasthuishoeven  1\, 2640 Mortsel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Sint Michiel - Cantincrode B
+DTSTART;TZID=Europe/Brussels:20261011T120000
+DTEND;TZID=Europe/Brussels:20261011T134500
+DTSTAMP:20261003T050505Z
+UID:7537009@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Marieke Vervoortlaan\, 2500 Lier
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cantincrode B - R. Cappellen FC
+DTSTART;TZID=Europe/Brussels:20261018T103000
+DTEND;TZID=Europe/Brussels:20261018T121500
+DTSTAMP:20261003T050505Z
+UID:7537015@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Gasthuishoeven  1\, 2640 Mortsel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Condor B - Cantincrode B
+DTSTART;TZID=Europe/Brussels:20261025T100000
+DTEND;TZID=Europe/Brussels:20261025T114500
+DTSTAMP:20261003T050505Z
+UID:7537020@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Ruggeveldlaan 58 (GPS 50)\, 2100 Deurne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cantincrode B - S.V. Sint-Jozef Mortsel B
+DTSTART;TZID=Europe/Brussels:20261108T103000
+DTEND;TZID=Europe/Brussels:20261108T121500
+DTSTAMP:20261003T050505Z
+UID:7537036@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Gasthuishoeven  1\, 2640 Mortsel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Los Incas Antwerpen - Cantincrode B
+DTSTART;TZID=Europe/Brussels:20261115T143000
+DTEND;TZID=Europe/Brussels:20261115T161500
+DTSTAMP:20261003T050505Z
+UID:7537045@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Moerelei z/n\, 2610 Wilrijk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cantincrode B - ESVO
+DTSTART;TZID=Europe/Brussels:20261122T103000
+DTEND;TZID=Europe/Brussels:20261122T121500
+DTSTAMP:20261003T050505Z
+UID:7537049@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Gasthuishoeven  1\, 2640 Mortsel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VK Simikos A - Cantincrode B
+DTSTART;TZID=Europe/Brussels:20261129T103000
+DTEND;TZID=Europe/Brussels:20261129T121500
+DTSTAMP:20261003T050505Z
+UID:7537056@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Eksterdreef 8\, 2900 Schoten
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Patro Hoevenen B - Cantincrode B
+DTSTART;TZID=Europe/Brussels:20261206T103000
+DTEND;TZID=Europe/Brussels:20261206T121500
+DTSTAMP:20261003T050505Z
+UID:7537065@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Kerkstraat 89\, 2940 Hoevenen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cantincrode B - Kon SV Vlug Vooruit
+DTSTART;TZID=Europe/Brussels:20270110T103000
+DTEND;TZID=Europe/Brussels:20270110T121500
+DTSTAMP:20261003T050505Z
+UID:7537070@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Gasthuishoeven  1\, 2640 Mortsel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Drakenhof C - Cantincrode B
+DTSTART;TZID=Europe/Brussels:20270117T100000
+DTEND;TZID=Europe/Brussels:20270117T114500
+DTSTAMP:20261003T050505Z
+UID:7537076@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Drakenhoflaan 160\, 2100 Deurne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Ik Dien A - Cantincrode B
+DTSTART;TZID=Europe/Brussels:20270131T100000
+DTEND;TZID=Europe/Brussels:20270131T114500
+DTSTAMP:20261003T050505Z
+UID:7537090@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Kattenbroek 15\, 2650 Edegem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cantincrode B - FC Sint Michiel
+DTSTART;TZID=Europe/Brussels:20270214T103000
+DTEND;TZID=Europe/Brussels:20270214T121500
+DTSTAMP:20261003T050505Z
+UID:7537098@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Gasthuishoeven  1\, 2640 Mortsel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:R. Cappellen FC - Cantincrode B
+DTSTART;TZID=Europe/Brussels:20270221T140000
+DTEND;TZID=Europe/Brussels:20270221T154500
+DTSTAMP:20261003T050505Z
+UID:7537108@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:René de Pauwstraat\,69\, 2950 Kapellen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cantincrode B - El Condor B
+DTSTART;TZID=Europe/Brussels:20270228T103000
+DTEND;TZID=Europe/Brussels:20270228T121500
+DTSTAMP:20261003T050505Z
+UID:7537112@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Gasthuishoeven  1\, 2640 Mortsel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S.V. Sint-Jozef Mortsel B - Cantincrode B
+DTSTART;TZID=Europe/Brussels:20270314T103000
+DTEND;TZID=Europe/Brussels:20270314T121500
+DTSTAMP:20261003T050505Z
+UID:7537127@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:De Stappe 31\, 2640 Mortsel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cantincrode B - FC Los Incas Antwerpen
+DTSTART;TZID=Europe/Brussels:20270321T103000
+DTEND;TZID=Europe/Brussels:20270321T121500
+DTSTAMP:20261003T050505Z
+UID:7537133@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Gasthuishoeven  1\, 2640 Mortsel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESVO - Cantincrode B
+DTSTART;TZID=Europe/Brussels:20270411T103000
+DTEND;TZID=Europe/Brussels:20270411T121500
+DTSTAMP:20261003T050505Z
+UID:7537142@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Oorderseweg 83\, 2180 Ekeren
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cantincrode B - VK Simikos A
+DTSTART;TZID=Europe/Brussels:20270418T103000
+DTEND;TZID=Europe/Brussels:20270418T121500
+DTSTAMP:20261003T050505Z
+UID:7537148@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Gasthuishoeven  1\, 2640 Mortsel
+END:VEVENT
+END:VCALENDAR

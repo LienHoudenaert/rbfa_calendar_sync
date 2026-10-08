@@ -6,16 +6,16 @@ BEGIN:VEVENT
 SUMMARY:VVS Rotselaar - KFC.Rap.Wezemaal
 DTSTART;TZID=Europe/Brussels:20260904T203000
 DTEND;TZID=Europe/Brussels:20260904T221500
-DTSTAMP:20260916T144900Z
+DTSTAMP:20261003T045948Z
 UID:7544735@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 0-5
 LOCATION:Hellichtstraat 83\, 3110 Rotselaar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nelly Boys Rillaar - VVS Rotselaar
 DTSTART;TZID=Europe/Brussels:20260911T200000
 DTEND;TZID=Europe/Brussels:20260911T214500
-DTSTAMP:20260916T144900Z
+DTSTAMP:20261003T045948Z
 UID:7544738@rbfa-calendar-sync.app
 DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 2-1
 LOCATION:Diestsesteenweg\, 3202 Rillaar
@@ -24,34 +24,34 @@ BEGIN:VEVENT
 SUMMARY:VVS Rotselaar - VK Wakkerzeel
 DTSTART;TZID=Europe/Brussels:20260918T203000
 DTEND;TZID=Europe/Brussels:20260918T221500
-DTSTAMP:20260916T144900Z
+DTSTAMP:20261003T045948Z
 UID:7544747@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 0-5
 LOCATION:Hellichtstraat 83\, 3110 Rotselaar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KVC.Kessel-Lo 2000 - VVS Rotselaar
 DTSTART;TZID=Europe/Brussels:20260925T203000
 DTEND;TZID=Europe/Brussels:20260925T221500
-DTSTAMP:20260916T144900Z
+DTSTAMP:20261003T045948Z
 UID:7544751@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 6-1
 LOCATION:Stadionlaan 8\, 3010 Kessel-Lo
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VVS Rotselaar - VC.Bertem-Leefdaal B
 DTSTART;TZID=Europe/Brussels:20261002T203000
 DTEND;TZID=Europe/Brussels:20261002T221500
-DTSTAMP:20260916T144900Z
+DTSTAMP:20261003T045948Z
 UID:7544758@rbfa-calendar-sync.app
-DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 3-1
 LOCATION:Hellichtstraat 83\, 3110 Rotselaar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Groene Heide Rillaar - VVS Rotselaar
 DTSTART;TZID=Europe/Brussels:20261009T203000
 DTEND;TZID=Europe/Brussels:20261009T221500
-DTSTAMP:20260916T144900Z
+DTSTAMP:20261003T045948Z
 UID:7544765@rbfa-calendar-sync.app
 DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
 LOCATION:Rillaarsebaan 399\, 3200 Aarschot
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Kapelleke Langdorp - VVS Rotselaar
 DTSTART;TZID=Europe/Brussels:20261017T170000
 DTEND;TZID=Europe/Brussels:20261017T184500
-DTSTAMP:20260916T144900Z
+DTSTAMP:20261003T045948Z
 UID:7544773@rbfa-calendar-sync.app
 DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
 LOCATION:Oude Mechelsebaan 565\, 3201 Langdorp
@@ -69,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:VVS Rotselaar - Remy Boys Wijgmaal
 DTSTART;TZID=Europe/Brussels:20261023T203000
 DTEND;TZID=Europe/Brussels:20261023T221500
-DTSTAMP:20260916T144900Z
+DTSTAMP:20261003T045948Z
 UID:7544778@rbfa-calendar-sync.app
 DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
 LOCATION:Hellichtstraat 83\, 3110 Rotselaar
@@ -78,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:V.V.S ROTSELAAR - F.C. TABOR HEVERLEE VZW
 DTSTART;TZID=Europe/Brussels:20261111T143000
 DTEND;TZID=Europe/Brussels:20261111T161500
-DTSTAMP:20260916T144900Z
+DTSTAMP:20261003T045948Z
 UID:7506114@rbfa-calendar-sync.app
 DESCRIPTION:Terrein: Gras\nType wedstrijd: Beker\nEindstand: 
 LOCATION:Hellichtstraat 83\, 3110 Rotselaar
@@ -87,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:Daring Leuven - VVS Rotselaar
 DTSTART;TZID=Europe/Brussels:20261113T204500
 DTEND;TZID=Europe/Brussels:20261113T223000
-DTSTAMP:20260916T144900Z
+DTSTAMP:20261003T045948Z
 UID:7544783@rbfa-calendar-sync.app
 DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
 LOCATION:Stadionlaan 8\, 3010 Kessel-Lo
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 SUMMARY:VVS Rotselaar - Sp.Rotselaar
 DTSTART;TZID=Europe/Brussels:20261120T203000
 DTEND;TZID=Europe/Brussels:20261120T221500
-DTSTAMP:20260916T144900Z
+DTSTAMP:20261003T045948Z
 UID:7544790@rbfa-calendar-sync.app
 DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
 LOCATION:Hellichtstraat 83\, 3110 Rotselaar
@@ -105,7 +105,7 @@ BEGIN:VEVENT
 SUMMARY:Alpia Tildonk - VVS Rotselaar
 DTSTART;TZID=Europe/Brussels:20261128T150000
 DTEND;TZID=Europe/Brussels:20261128T164500
-DTSTAMP:20260916T144900Z
+DTSTAMP:20261003T045948Z
 UID:7544797@rbfa-calendar-sync.app
 DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
 LOCATION:7de Liniestraat 11\, 3150 Tildonk
@@ -114,7 +114,7 @@ BEGIN:VEVENT
 SUMMARY:KFC.Rap.Wezemaal - VVS Rotselaar
 DTSTART;TZID=Europe/Brussels:20261204T203000
 DTEND;TZID=Europe/Brussels:20261204T221500
-DTSTAMP:20260916T144900Z
+DTSTAMP:20261003T045948Z
 UID:7544801@rbfa-calendar-sync.app
 DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
 LOCATION:Vleugtweg z/n\, 3111 Wezemaal
@@ -123,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:VVS Rotselaar - Nelly Boys Rillaar
 DTSTART;TZID=Europe/Brussels:20270108T203000
 DTEND;TZID=Europe/Brussels:20270108T221500
-DTSTAMP:20260916T144900Z
+DTSTAMP:20261003T045948Z
 UID:7544806@rbfa-calendar-sync.app
 DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
 LOCATION:Hellichtstraat 83\, 3110 Rotselaar
@@ -132,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:VK Wakkerzeel - VVS Rotselaar
 DTSTART;TZID=Europe/Brussels:20270115T203000
 DTEND;TZID=Europe/Brussels:20270115T221500
-DTSTAMP:20260916T144900Z
+DTSTAMP:20261003T045948Z
 UID:7544813@rbfa-calendar-sync.app
 DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
 LOCATION:Kelfsstraat\, 3150 Haacht
@@ -141,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:VVS Rotselaar - KVC.Kessel-Lo 2000
 DTSTART;TZID=Europe/Brussels:20270122T203000
 DTEND;TZID=Europe/Brussels:20270122T221500
-DTSTAMP:20260916T144900Z
+DTSTAMP:20261003T045948Z
 UID:7544817@rbfa-calendar-sync.app
 DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
 LOCATION:Hellichtstraat 83\, 3110 Rotselaar
@@ -150,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:VC.Bertem-Leefdaal B - VVS Rotselaar
 DTSTART;TZID=Europe/Brussels:20270129T203000
 DTEND;TZID=Europe/Brussels:20270129T221500
-DTSTAMP:20260916T144900Z
+DTSTAMP:20261003T045948Z
 UID:7544825@rbfa-calendar-sync.app
 DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
 LOCATION:Dorpstraat 257\, 3061 Leefdaal
@@ -159,7 +159,7 @@ BEGIN:VEVENT
 SUMMARY:VVS Rotselaar - FC Groene Heide Rillaar
 DTSTART;TZID=Europe/Brussels:20270219T203000
 DTEND;TZID=Europe/Brussels:20270219T221500
-DTSTAMP:20260916T144900Z
+DTSTAMP:20261003T045948Z
 UID:7544829@rbfa-calendar-sync.app
 DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
 LOCATION:Hellichtstraat 83\, 3110 Rotselaar
@@ -168,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:VVS Rotselaar - Kapelleke Langdorp
 DTSTART;TZID=Europe/Brussels:20270226T203000
 DTEND;TZID=Europe/Brussels:20270226T221500
-DTSTAMP:20260916T144900Z
+DTSTAMP:20261003T045948Z
 UID:7544839@rbfa-calendar-sync.app
 DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
 LOCATION:Hellichtstraat 83\, 3110 Rotselaar
@@ -177,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:Remy Boys Wijgmaal - VVS Rotselaar
 DTSTART;TZID=Europe/Brussels:20270305T200000
 DTEND;TZID=Europe/Brussels:20270305T214500
-DTSTAMP:20260916T144900Z
+DTSTAMP:20261003T045948Z
 UID:7544840@rbfa-calendar-sync.app
 DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
 LOCATION:Vaartdijk\, 3018 Wijgmaal
@@ -186,7 +186,7 @@ BEGIN:VEVENT
 SUMMARY:VVS Rotselaar - Daring Leuven
 DTSTART;TZID=Europe/Brussels:20270312T203000
 DTEND;TZID=Europe/Brussels:20270312T221500
-DTSTAMP:20260916T144900Z
+DTSTAMP:20261003T045948Z
 UID:7544847@rbfa-calendar-sync.app
 DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
 LOCATION:Hellichtstraat 83\, 3110 Rotselaar
@@ -195,7 +195,7 @@ BEGIN:VEVENT
 SUMMARY:Sp.Rotselaar - VVS Rotselaar
 DTSTART;TZID=Europe/Brussels:20270319T203000
 DTEND;TZID=Europe/Brussels:20270319T221500
-DTSTAMP:20260916T144900Z
+DTSTAMP:20261003T045948Z
 UID:7544854@rbfa-calendar-sync.app
 DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
 LOCATION:Torenstraat 115\, 3110 Rotselaar
@@ -204,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:VVS Rotselaar - Alpia Tildonk
 DTSTART;TZID=Europe/Brussels:20270409T203000
 DTEND;TZID=Europe/Brussels:20270409T221500
-DTSTAMP:20260916T144900Z
+DTSTAMP:20261003T045948Z
 UID:7544859@rbfa-calendar-sync.app
 DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
 LOCATION:Hellichtstraat 83\, 3110 Rotselaar

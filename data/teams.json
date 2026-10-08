@@ -7,6 +7,18 @@
       "logo": "https://belgianfootball.s3.eu-central-1.amazonaws.com/s3fs-public/rbfa/img/logos/clubs/04469.jpg"
     },
     {
+      "id": "363424",
+      "name": "U15 A",
+      "club": "F.C. TENSTAR MELLE",
+      "logo": "https://belgianfootball.s3.eu-central-1.amazonaws.com/s3fs-public/rbfa/img/logos/clubs/07206.jpg"
+    },
+    {
+      "id": "365416",
+      "name": "Eerste Elftal",
+      "club": "V.C. HERENTALS",
+      "logo": "https://belgianfootball.s3.eu-central-1.amazonaws.com/s3fs-public/rbfa/img/logos/clubs/09364.jpg"
+    },
+    {
       "id": "365651",
       "name": "Eerste Elftal A",
       "club": "F.C. AVERBODE TESTELT OKSELAAR",
@@ -49,10 +61,22 @@
       "logo": "https://belgianfootball.s3.eu-central-1.amazonaws.com/s3fs-public/rbfa/img/logos/clubs/26041.jpg"
     },
     {
+      "id": "372379",
+      "name": "Recrea Veteranen B",
+      "club": "CANTINCRODE",
+      "logo": "https://belgianfootball.s3.eu-central-1.amazonaws.com/s3fs-public/rbfa/img/logos/clubs/61002.jpg"
+    },
+    {
       "id": "374440",
       "name": "Eerste Elftal",
       "club": "DE TEMPELIERS",
       "logo": "https://belgianfootball.s3.eu-central-1.amazonaws.com/s3fs-public/rbfa/img/logos/clubs/no_logo.jpg"
+    },
+    {
+      "id": "376036",
+      "name": "Eerste Elftal",
+      "club": "VV INT MANDJE",
+      "logo": "https://belgianfootball.s3.eu-central-1.amazonaws.com/s3fs-public/rbfa/img/logos/clubs/89848.jpg"
     },
     {
       "id": "376346",
@@ -89,6 +113,30 @@
       "name": "U11 BL",
       "club": "REAL ELMOS HERENTALS",
       "logo": "https://belgianfootball.s3.eu-central-1.amazonaws.com/s3fs-public/rbfa/img/logos/clubs/26041.jpg"
+    },
+    {
+      "id": "384870",
+      "name": "U11 meisjes",
+      "club": "VREMDE",
+      "logo": "https://belgianfootball.s3.eu-central-1.amazonaws.com/s3fs-public/rbfa/img/logos/clubs/61065.jpg"
+    },
+    {
+      "id": "385293",
+      "name": "U17 A",
+      "club": "F.C. V.D.P.",
+      "logo": "https://belgianfootball.s3.eu-central-1.amazonaws.com/s3fs-public/rbfa/img/logos/clubs/61099.jpg"
+    },
+    {
+      "id": "385298",
+      "name": "U13 A",
+      "club": "F.C. V.D.P.",
+      "logo": "https://belgianfootball.s3.eu-central-1.amazonaws.com/s3fs-public/rbfa/img/logos/clubs/61099.jpg"
+    },
+    {
+      "id": "385304",
+      "name": "U10 A",
+      "club": "F.C. V.D.P.",
+      "logo": "https://belgianfootball.s3.eu-central-1.amazonaws.com/s3fs-public/rbfa/img/logos/clubs/61099.jpg"
     }
   ]
 }

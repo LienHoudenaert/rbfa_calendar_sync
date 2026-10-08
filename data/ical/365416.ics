@@ -1,0 +1,337 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//RBFA Calendar Sync//NL
+X-WR-TIMEZONE:Europe/Brussels
+BEGIN:VEVENT
+SUMMARY:VC HERENTALS - KFC DE KEMPEN TL
+DTSTART;TZID=Europe/Brussels:20260729T190000
+DTEND;TZID=Europe/Brussels:20260729T204500
+DTSTAMP:20261003T045619Z
+UID:7578337@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Vriendschappelijk\nEindstand: 1
+ -2
+LOCATION:Herenthoutseweg 118\, 2200 Herentals
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VC Herentals - KFC Berlaar-Heikant B
+DTSTART;TZID=Europe/Brussels:20260801T183000
+DTEND;TZID=Europe/Brussels:20260801T201500
+DTSTAMP:20261003T045619Z
+UID:7500087@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Vriendschappelijk\nEindstand: 2
+ -1
+LOCATION:Herenthoutseweg 118\, 2200 Herentals
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:K.S.K. Wavria B - VC Herentals
+DTSTART;TZID=Europe/Brussels:20260809T153000
+DTEND;TZID=Europe/Brussels:20260809T171500
+DTSTAMP:20261003T045619Z
+UID:7500114@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Vriendschappelijk\nEindsta
+ nd: 1-2
+LOCATION:Schrans\, 2861 O.L.V.- Waver
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VC HERENTALS - KVV OG VORSELAAR
+DTSTART;TZID=Europe/Brussels:20260811T193000
+DTEND;TZID=Europe/Brussels:20260811T211500
+DTSTAMP:20261003T045619Z
+UID:7578338@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Vriendschappelijk\nEindstand: 2
+ -0
+LOCATION:Herenthoutseweg 118\, 2200 Herentals
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VC Herentals - FCM Hallaar A
+DTSTART;TZID=Europe/Brussels:20260815T183000
+DTEND;TZID=Europe/Brussels:20260815T201500
+DTSTAMP:20261003T045619Z
+UID:7500125@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Vriendschappelijk\nEindstand: 0
+ -2
+LOCATION:Herenthoutseweg 118\, 2200 Herentals
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SK RITA BERLAAR - VC HERENTALS
+DTSTART;TZID=Europe/Brussels:20260819T200000
+DTEND;TZID=Europe/Brussels:20260819T214500
+DTSTAMP:20261003T045619Z
+UID:7578231@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Vriendschappelijk\nEindsta
+ nd: 5-1
+LOCATION:Welvaartstraat 101\, 2590 Berlaar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KV Hooikt - VC Herentals
+DTSTART;TZID=Europe/Brussels:20260823T150000
+DTEND;TZID=Europe/Brussels:20260823T164500
+DTSTAMP:20261003T045619Z
+UID:7500150@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Vriendschappelijk\nEindsta
+ nd: 2-8
+LOCATION:Beekstraat 84\, 2500 Koningshooikt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KFC FLANDRIA - VC HERENTALS
+DTSTART;TZID=Europe/Brussels:20260829T190000
+DTEND;TZID=Europe/Brussels:20260829T204500
+DTSTAMP:20261003T045619Z
+UID:7645175@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Vriendschappelijk\nEindsta
+ nd: 2-2
+LOCATION:Raaftuinweg\, 2380 Ravels
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VC Herentals - KFC Nijlen B
+DTSTART;TZID=Europe/Brussels:20260906T150000
+DTEND;TZID=Europe/Brussels:20260906T164500
+DTSTAMP:20261003T045619Z
+UID:7511983@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 3-1
+LOCATION:Herenthoutseweg 118\, 2200 Herentals
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VC Herentals - KSK Heist B
+DTSTART;TZID=Europe/Brussels:20260913T150000
+DTEND;TZID=Europe/Brussels:20260913T164500
+DTSTAMP:20261003T045619Z
+UID:7511990@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 4-1
+LOCATION:Herenthoutseweg 118\, 2200 Herentals
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KVV OG Vorselaar B - VC Herentals
+DTSTART;TZID=Europe/Brussels:20260919T180000
+DTEND;TZID=Europe/Brussels:20260919T194500
+DTSTAMP:20261003T045619Z
+UID:7511994@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 1-3
+LOCATION:Riemenstraat 89E\, 2290 Vorselaar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VC Herentals - SK sGravenwezel-Schilde B
+DTSTART;TZID=Europe/Brussels:20260927T150000
+DTEND;TZID=Europe/Brussels:20260927T164500
+DTSTAMP:20261003T045619Z
+UID:7512006@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 4-1
+LOCATION:Herenthoutseweg 118\, 2200 Herentals
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KFC Herenthout - VC Herentals
+DTSTART;TZID=Europe/Brussels:20261003T193000
+DTEND;TZID=Europe/Brussels:20261003T211500
+DTSTAMP:20261003T045619Z
+UID:7512012@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Bergense Steenweg 63\, 2270 Herenthout
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VC Herentals - VV-NEXT Laakdal B
+DTSTART;TZID=Europe/Brussels:20261011T150000
+DTEND;TZID=Europe/Brussels:20261011T164500
+DTSTAMP:20261003T045619Z
+UID:7512022@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Herenthoutseweg 118\, 2200 Herentals
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KFC Berlaar-Heikant B - VC Herentals
+DTSTART;TZID=Europe/Brussels:20261018T163000
+DTEND;TZID=Europe/Brussels:20261018T181500
+DTSTAMP:20261003T045619Z
+UID:7512031@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Melkouwensteenweg 73\, 2590 Berlaar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KSK Oelegem - VC Herentals
+DTSTART;TZID=Europe/Brussels:20261025T143000
+DTEND;TZID=Europe/Brussels:20261025T161500
+DTSTAMP:20261003T045619Z
+UID:7512035@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Heesterbos 2a\, 2520 Oelegem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VC Herentals - FCM Hallaar B
+DTSTART;TZID=Europe/Brussels:20261101T143000
+DTEND;TZID=Europe/Brussels:20261101T161500
+DTSTAMP:20261003T045619Z
+UID:7512046@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Herenthoutseweg 118\, 2200 Herentals
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KFC Ranst B - VC Herentals
+DTSTART;TZID=Europe/Brussels:20261108T143000
+DTEND;TZID=Europe/Brussels:20261108T161500
+DTSTAMP:20261003T045619Z
+UID:7512054@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Ranstsesteenweg\, 2520 Ranst
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VC Herentals - K. Zandhoven SK B
+DTSTART;TZID=Europe/Brussels:20261115T143000
+DTEND;TZID=Europe/Brussels:20261115T161500
+DTSTAMP:20261003T045619Z
+UID:7512061@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Herenthoutseweg 118\, 2200 Herentals
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VC Herentals - Wiekevorst Sp.
+DTSTART;TZID=Europe/Brussels:20261122T143000
+DTEND;TZID=Europe/Brussels:20261122T161500
+DTSTAMP:20261003T045619Z
+UID:7512069@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Herenthoutseweg 118\, 2200 Herentals
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VC Immer Oost-Oosterwijk - VC Herentals
+DTSTART;TZID=Europe/Brussels:20261128T200000
+DTEND;TZID=Europe/Brussels:20261128T214500
+DTSTAMP:20261003T045619Z
+UID:7512076@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Bovemansstraat 20\, 2260 Westerlo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VC Herentals - KFC Grobbendonk
+DTSTART;TZID=Europe/Brussels:20261206T143000
+DTEND;TZID=Europe/Brussels:20261206T161500
+DTSTAMP:20261003T045619Z
+UID:7512085@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Herenthoutseweg 118\, 2200 Herentals
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VV-NEXT Laakdal B - VC Herentals
+DTSTART;TZID=Europe/Brussels:20261212T200000
+DTEND;TZID=Europe/Brussels:20261212T214500
+DTSTAMP:20261003T045619Z
+UID:7512089@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Huiperstraat 16\, 2430 Vorst
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VC Herentals - KVV OG Vorselaar B
+DTSTART;TZID=Europe/Brussels:20270110T143000
+DTEND;TZID=Europe/Brussels:20270110T161500
+DTSTAMP:20261003T045619Z
+UID:7512102@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Herenthoutseweg 118\, 2200 Herentals
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SK sGravenwezel-Schilde B - VC Herentals
+DTSTART;TZID=Europe/Brussels:20270116T173000
+DTEND;TZID=Europe/Brussels:20270116T191500
+DTSTAMP:20261003T045619Z
+UID:7512105@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Rozenhoek\, Oelegemsestwg.\, 2970 Schilde
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VC Herentals - KFC Herenthout
+DTSTART;TZID=Europe/Brussels:20270124T143000
+DTEND;TZID=Europe/Brussels:20270124T161500
+DTSTAMP:20261003T045619Z
+UID:7512117@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Herenthoutseweg 118\, 2200 Herentals
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wiekevorst Sp. - VC Herentals
+DTSTART;TZID=Europe/Brussels:20270131T143000
+DTEND;TZID=Europe/Brussels:20270131T161500
+DTSTAMP:20261003T045619Z
+UID:7512125@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Dalstraat\, 2222 Wiekevorst
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:K. Zandhoven SK B - VC Herentals
+DTSTART;TZID=Europe/Brussels:20270213T180000
+DTEND;TZID=Europe/Brussels:20270213T194500
+DTSTAMP:20261003T045619Z
+UID:7512129@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Voetbalstraat z/n\, 2240 Zandhoven
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VC Herentals - KFC Ranst B
+DTSTART;TZID=Europe/Brussels:20270221T150000
+DTEND;TZID=Europe/Brussels:20270221T164500
+DTSTAMP:20261003T045619Z
+UID:7512143@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Herenthoutseweg 118\, 2200 Herentals
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FCM Hallaar B - VC Herentals
+DTSTART;TZID=Europe/Brussels:20270228T150000
+DTEND;TZID=Europe/Brussels:20270228T164500
+DTSTAMP:20261003T045619Z
+UID:7512150@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Spekstraat\, 2220 Hallaar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VC Herentals - KSK Oelegem
+DTSTART;TZID=Europe/Brussels:20270307T150000
+DTEND;TZID=Europe/Brussels:20270307T164500
+DTSTAMP:20261003T045619Z
+UID:7512158@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Herenthoutseweg 118\, 2200 Herentals
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KSK Heist B - VC Herentals
+DTSTART;TZID=Europe/Brussels:20270314T150000
+DTEND;TZID=Europe/Brussels:20270314T164500
+DTSTAMP:20261003T045619Z
+UID:7512165@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Kunstgras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Lostraat\, 50\, 2220 Heist-Op-Den-Berg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VC Herentals - VC Immer Oost-Oosterwijk
+DTSTART;TZID=Europe/Brussels:20270321T150000
+DTEND;TZID=Europe/Brussels:20270321T164500
+DTSTAMP:20261003T045619Z
+UID:7512174@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Herenthoutseweg 118\, 2200 Herentals
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KFC Nijlen B - VC Herentals
+DTSTART;TZID=Europe/Brussels:20270404T143000
+DTEND;TZID=Europe/Brussels:20270404T161500
+DTSTAMP:20261003T045619Z
+UID:7512180@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Graanweg\, 2560 Nijlen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KFC Grobbendonk - VC Herentals
+DTSTART;TZID=Europe/Brussels:20270417T193000
+DTEND;TZID=Europe/Brussels:20270417T211500
+DTSTAMP:20261003T045619Z
+UID:7512196@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Vaartkom 2\, 2280 Grobbendonk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VC Herentals - KFC Berlaar-Heikant B
+DTSTART;TZID=Europe/Brussels:20270425T150000
+DTEND;TZID=Europe/Brussels:20270425T164500
+DTSTAMP:20261003T045619Z
+UID:7512204@rbfa-calendar-sync.app
+DESCRIPTION:Terrein: Gras\nType wedstrijd: Competitie\nEindstand: 
+LOCATION:Herenthoutseweg 118\, 2200 Herentals
+END:VEVENT
+END:VCALENDAR
